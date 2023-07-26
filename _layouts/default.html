@@ -18,13 +18,11 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      {% if site.github.is_project_page %}
-        <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
-      {% endif %}
-      {% if site.show_downloads %}
-        <a href="{{ site.github.zip_url }}" class="btn">Download .zip</a>
-        <a href="{{ site.github.tar_url }}" class="btn">Download .tar.gz</a>
-      {% endif %}
+      <a href="https://intelligentsystemsinaviation.github.io" class="btn">Home</a>
+      <a href="https://intelligentsystemsinaviation.github.io/pages/projects.html" class="btn">Projects</a>
+      <a href="https://intelligentsystemsinaviation.github.io/pages/publications.html" class="btn">Publications</a>
+      <a href="https://intelligentsystemsinaviation.github.io/pages/collaborations.html" class="btn">Collaborations</a>
+      <a href="https://intelligentsystemsinaviation.github.io/pages/team.html" class="btn">Team</a>
     </header>
 
     <main id="content" class="main-content" role="main">
