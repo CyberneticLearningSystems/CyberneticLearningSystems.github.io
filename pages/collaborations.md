@@ -71,6 +71,6 @@ description: We are proud to list all our trusted partners and collaborators.
 The research group is a member of the following networks and actively participates in their development.
 
 - [Datalab - The ZHAW Data Science Laboratory](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/)
-- [Flatland](https://flatland.aicrowd.com/intro.html)
+- [Flatland](https://flatland.aicrowd.com/intro.html) or [Flatland Association](https://www.flatland-association.org/)
 
 

@@ -12,4 +12,4 @@ Aurora Flight Sciences and Wisk Aero are subsidiaries of Boeing and are involved
 
 Due to the lack of operational experience with vertiports, the team at the IDP developed discrete-event simulations to investigate various layouts with different numbers of gates and landing pads. Furthermore, various sensitivity analyses and evaluations were carried out to optimize the handling processes of the air taxis and to increase the hourly throughput per vertiport. The necessary resources in the form of towing tractors and ground staff were also planned and optimized for the layouts investigated. The study is a decisive contribution to the development of a valid and economically attractive business model.
 
-[Back](https://intelligentsystemsinaviation.github.io/pages/research.html)
+[Back](https://https://isandaiinaviation.github.io/pages/research.html)

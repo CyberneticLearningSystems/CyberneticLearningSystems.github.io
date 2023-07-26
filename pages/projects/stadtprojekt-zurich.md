@@ -12,4 +12,4 @@ The City of Zurich commissioned the research group at the IDP in cooperation wit
 
 The findings obtained served the city of Zurich as a scientific basis for the traffic regulation measures planned for Bellerivestrasse at the time, which had the goal of reducing traffic congestion, lowering noise emissions, and promoting green mobility.
 
-[Back](https://intelligentsystemsinaviation.github.io/pages/research.html)
+[Back](https://https://isandaiinaviation.github.io/pages/research.html)
