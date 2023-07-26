@@ -73,4 +73,3 @@ The research group is a member of the following networks and actively participat
 - [Datalab - The ZHAW Data Science Laboratory](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/)
 - [Flatland](https://flatland.aicrowd.com/intro.html) or [Flatland Association](https://www.flatland-association.org/)
 
-

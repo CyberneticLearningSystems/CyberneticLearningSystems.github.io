@@ -3,7 +3,7 @@ layout: default
 title: Intelligent Systems and Operations in Aviation 
 ---
 
-# **Welcome in the world of AI in Aviation**
+# **Welcome you in the world of AI in Aviation**
 
 
 This is the personal blog of the research group [**Intelligent Systems and Operations in Aviation**](https://www.zhaw.ch/en/engineering/institute-zentren/idp/forschungsthemen/operation-in-aviation/) being part of the [**Institute of Data Analysis and Process Design**](https://www.zhaw.ch/en/engineering/institutes-centres/idp/) at the [**ZHAW**](https://www.zhaw.ch/en/university/). We are glad you as a reader found our page and are happy to introduce ourself and our projects as well as our engagements to you. We are a dedicated and motivated team that drive the application of artifical intelligence for operations in aviation and related industries. Feel free to contact us any time. 
