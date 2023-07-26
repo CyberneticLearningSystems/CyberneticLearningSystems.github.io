@@ -1,123 +1,32 @@
 ---
 layout: default
+title: Intelligent Systems and Operations in Aviation 
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# **Welcome in the world of AI in Aviation**
 
 
-### Definition lists can be used with HTML syntax.
+This is the personal blog of the research group [**Intelligent Systems and Operations in Aviation**](https://www.zhaw.ch/en/engineering/institute-zentren/idp/forschungsthemen/operation-in-aviation/) being part of the [**Institute of Data Analysis and Process Design**](https://www.zhaw.ch/en/engineering/institutes-centres/idp/) at the [**ZHAW**](https://www.zhaw.ch/en/university/). We are glad you as a reader found our page and are happy to introduce ourself and our projects as well as our engagements to you. We are a dedicated and motivated team that drive the application of artifical intelligence for operations in aviation and related industries. Feel free to contact us any time. 
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+![Branching](./pictures/home_bild.png)
+Picture: [David Augsburger](https://www.instagram.com/augsburgair/)
 
-```
-The final element.
-```
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
+
+Our expertise includes statistical methods, stochastic optimization (e.g. Evolutionary Multi-Objective Optimization), macro- and micro-economic analyses as well as machine-based optimization and the modelling and simulation of aviation processes on the ground and in the air. In addition to the development of conventional simulation models in the field of discrete-event and agent-based simulation, we also conduct research on new methods in artificial intelligence and machine learning (GANs, Deep Reinforcement Learning with Human Feedback, etc.). We apply these methods to complex operational problems inside and outside the aviation industry. 
+
+Our main tasks include the simulation of processes such as passenger flow dynamics, capacity management and capacity analyses, delay propagation, revenue management, hub and spoke load balancing, network analyses and the simulation of baggage processes.
+
+The methods and solutions developed provide a basis for decision-making on complex problems as part of operation management for partners within the aviation industry and their stakeholders.
+
+
+
+
