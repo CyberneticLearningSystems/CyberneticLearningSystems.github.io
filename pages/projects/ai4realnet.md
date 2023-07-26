@@ -14,4 +14,4 @@ The AI4REALNET vision promotes a harmonious coexistence of humans and AI, guaran
 
 The team at the “Intelligent Systems and Operations in Aviation” research group is heavily involved in the development of the project and is primarily concerned with fully AI-based decision systems with a focus on the railway domain, and with a strong involvement in research and development for co-learning with Deep RL (Deep Reinforcement Learning), XAI (Explainable AI) and RL for large networks. The team also contributes to the improvement of the Flatland simulation environment.
 
-[Back](https://https://isandaiinaviation.github.io/pages/research.html)
+[Back](https://isandaiinaviation.github.io/pages/research.html)
