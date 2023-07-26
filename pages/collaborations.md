@@ -44,7 +44,7 @@ description: We are proud to list all our trusted partners and collaborators.
 
 # Partners from Academia
 
--[EPFL Lausanne: https](https://www.epfl.ch/en/)
+- [EPFL Lausanne](https://www.epfl.ch/en/)
 - [University of Bern](https://www.unibe.ch/)
 - [University of Applied Sciences and Arts Northwestern Switzerland](https://www.fhnw.ch/de/) 
 - [EMPA Swiss Federal Laboratories of Material Science](https://www.empa.ch/)
