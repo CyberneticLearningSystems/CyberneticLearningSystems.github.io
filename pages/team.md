@@ -14,7 +14,7 @@ description: Our trusted manpower behind the computers
 Kurzer Text mit Ausbildung/Werdegang mit Fun Facts erlaubt ;D
 
 
-### Julia Usher - PhD Student
+### Julia Usher - PhD Candidate
 
 Kurzer Text mit Ausbildung/Werdegang mit Fun Facts erlaubt ;D
 
