@@ -18,11 +18,6 @@ description: Our trusted man- and womanpower behind the computers!
 
 ### Dr. Manuel Renold - Team Lead
 
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
-
 Feel free to visit Manuel on LinkedIn.
 
 [LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/)
@@ -34,11 +29,6 @@ Feel free to visit Manuel on LinkedIn.
 </html>
 
 ### Julia Usher - PhD Candidate
-
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
 
 Feel free to visit Julia on LinkedIn.
 
