@@ -17,7 +17,7 @@ we are glade to introduce ourself and our projects as well as our engagements to
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
 </html>
 
-Our team believes in the value of applying data-driven artificial intelligence algorithms to operations research to drive value for industry. The team focuses on applying its techniques mainly to the aviation industry, but has also successfully completed projects with partners beyond aviation. Their approach from simple machine learning models to more advanced methods such as deep learning models for computer vision or GANs and also reinforcement learning. The latter is the direction we are heading with our latest research projects (e.g. see [AI4REALNET](./pages/projects/ai4realnet.md)).
+Our team creates value by applying data-driven artificial intelligence algorithms to operations research, focusing on industry needs. The team applies its techniques mainly to the aviation industry under the term "AI in Aviation", but has also successfully completed projects with partners beyond aviation. Their approach from simple machine learning models to more advanced methods such as deep learning models for computer vision or GANs and also reinforcement learning. The latter is the direction we are heading with our latest research projects (e.g. see [AI4REALNET](./pages/projects/ai4realnet.md)).
 
 
 <!--The code below is only used as spacer-->
