@@ -1,32 +1,53 @@
 ---
 layout: default
 title: Team
-description: Our trusted manpower behind the computers
+description: Our trusted man- and womanpower behind the computers!
 ---
 
 # **!This page is under maintenace right know!**
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html><!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
 
 
-/
-/
-/
 
 
 ### Dr. Manuel Renold - Team Lead
 
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
 
 Feel free to visit Manuel on LinkedIn.
 
 [LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/)
 
 
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
 
 ### Julia Usher - PhD Candidate
+
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
 
 Feel free to visit Julia on LinkedIn.
 
 [LinkedIn](https://www.linkedin.com/in/juliausher/)
 
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
 
 ### Janik Vollenweider - Researcher
 
