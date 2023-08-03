@@ -1,0 +1,21 @@
+---
+layout: default
+---
+
+<article class="post">
+  <h1>{{ page.title }}</h1>
+
+  <div class="entry">
+    {{ content }}
+  </div>
+
+  <div class="date">
+ 		{% if page.modified %}
+    	Written on {{ page.date | date: '%B %e, %Y' }} (last modified: {{ page.modified | date: '%B %e, %Y' }})
+    {% else %}
+    	{{ page.date | date: '%B %e, %Y' }}
+		{% endif %}
+  </div>
+
+  {% include disqus.html %}
+</article>
