@@ -1,6 +1,6 @@
 ---
-title: Reinforcement Learning with Human Feedback (RLHF) Bridging the Gap between AI and Human Expertise
-description: 
+title: News
+description: Our latest news and blog posts
 layout: post
 date: 2023-08-04
 modified: 2023-08-04
