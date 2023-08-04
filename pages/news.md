@@ -21,7 +21,7 @@ description: Our latest news and blog posts
 	    			{% endif %}
 					</div>
 
-		      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.title }}</a></h1>
+		      <h1><a href="{{ site.baseurl }}{{ post.url }}">{{ post.post_title }}</a></h1>
 
 		      <div class="entry">
 		        {{ post.excerpt }}
