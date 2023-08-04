@@ -34,8 +34,7 @@ description: Our latest news and blog posts
 		      		<font size="2" color="grey">Category: {{ post.category }}</font>
 						{% endif %}
 		      </div>
-			  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-			  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+			  <hr size="4">
 		    </article>
 		  {% endfor %}
 		</div>
