@@ -34,7 +34,7 @@ description: Our latest news and blog posts
 		      		<font size="2" color="grey">Category: {{ post.category }}</font>
 						{% endif %}
 		      </div>
-			  <hr size="4">
+			  <hr size="2">
 		    </article>
 		  {% endfor %}
 		</div>
