@@ -14,7 +14,7 @@ We are proud to be actively involved in publishing in scientific journals or hol
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
 </html>
 
-# Peer-reviewed Publications
+# Selected Peer-reviewed Publications
 
 - Mölg, T., M. Renold, M. Vuille, N. J. Cullen, T. F. Stocker, G. Kaser, 2006, [Indian Ocean zonal mode activity in a multicentury integration of a coupled AOGCM consistent with climate proxy data](https://digitalcollection.zhaw.ch/handle/11475/14096), Geophysical Research Letters, 33/L18710. 
 - Stocker, T. F., A. Timmermann, M. Renold, O. Timm, 2007, [Effects of salt compensation on the climate model response in simulations of large changes of the Atlantic meridional overturning circu- lation](https://digitalcollection.zhaw.ch/handle/11475/14085), Journal of Climate, 20/24, 5912-5928, 2007. 
