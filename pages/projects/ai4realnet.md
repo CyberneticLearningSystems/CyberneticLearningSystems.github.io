@@ -7,6 +7,7 @@ description: Horizon Europe research projects including 9 partner universities
 The European research project AI4REALNET deals with AI-based solutions for critical systems (electricity, railways and air traffic) that are traditionally operated by humans. The modelled networks are intended to complement and extend human capabilities through artificial intelligence. 
 
 ![Branching](./../../pictures/AI4REALNET.png)
+_Figure: The AI4REALNET project with the three infrastructures defined as critical as well as some milestones that will be developed during the project._
 
 AI4REALNET is a Horizon Europe funded research project with a total of nine partner universities and research technology organizations (RTOs) and six industrial partners. AI4REALNET aims to develop a comprehensive multidisciplinary approach that combines emerging AI algorithms, open-source digital environments and socio-technical design to effectively operate network infrastructures in a real-time and predictive manner. The project will test and evaluate AI in industry-relevant use cases, focusing on three critical infrastructures: power grids, railway systems and air traffic management. These infrastructures are considered vital in Europe and their disruption would have severe societal consequences.
 
