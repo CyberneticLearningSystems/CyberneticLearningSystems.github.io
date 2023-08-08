@@ -16,4 +16,7 @@ _Figure 2: Evaluation of the maximum possible hourly landings and take-offs with
 
 Due to the lack of operational experience with vertiports, the team at the IDP developed discrete-event simulations to investigate various layouts with different numbers of gates and landing pads. Furthermore, various sensitivity analyses and evaluations were carried out to optimize the handling processes of the air taxis and to increase the hourly throughput per vertiport. The necessary resources in the form of towing tractors and ground staff were also planned and optimized for the layouts investigated. The study is a decisive contribution to the development of a valid and economically attractive business model.
 
+### Acknowledgment
+This ongoing project started in 2019 and was funded in three phases by Aurora Flight Sciences and Wisk Aero.
+
 [Back](https://isandaiinaviation.github.io/pages/research.html)

@@ -19,5 +19,6 @@ _Figure 2: The profit cycles of different US airlines including their business m
 
 Currently, the different business models and their changes over the past 30 years are also being examined in order to better classify individual airlines in their industrial context. In the future, not only industry-specific endogenous variables, but above all macroeconomic KPIs are to be used so that changes and the identification of the right strategy can happen even earlier. The research group is increasingly focusing on the application of existing and the development of new algorithms from the field of machine learning.
 
+
 [Back](https://isandaiinaviation.github.io/pages/research.html)
 
