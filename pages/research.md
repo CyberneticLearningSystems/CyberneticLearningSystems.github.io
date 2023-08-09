@@ -13,10 +13,10 @@ The research group was or is involved in the following past and ongoing projects
 - [AI4REALNET - AI for Real-world Network operation](./projects/ai4realnet.md)
 - [City of Zurich - Pollutant emissions at different speed limits](./projects/stadtprojekt-zurich.md)
 - [Airline Profitability - Comprehensive Understanding of Profit Cycles in the Airline Industry](./projects/airline-profit.md)
+- [Swiss Post - Development of a Digital Twin for optimized parcel logistics](./projects/post-parcel-optimization.md)
 
 <!--The code below is only used as spacer-->
 <html>
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
 </html>
-
 
