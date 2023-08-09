@@ -12,9 +12,9 @@ _Figure 1: A cut-out of the model of the digital twin for the parcel logistics c
 The digital twin model is already available as a prototype to test its ability to support the dispatcher in finding the optimal way to transport the parcel between the logistics centre in Frauenfeld and Härkingen. A GUI has been developed to allow the dispatcher to see the solution computed by the optimisation algorithm, to add constraints to the algorithm before it is re-run, and to test certain What-If scenarios by re-assigning transports at his request, with the digital twin in the background testing the consequences.
 
 ![Branching](./../../pictures/post_digital_twin_gui.png)
-_Figure 2: Representation of the prototype's GUI to adjust the optimization algorithm and run What-If scenarios._
+_Figure 2: Representation of the prototype's GUI to adjust the oßptimization algorithm and run What-If scenarios._
 
-The digital twin model is designed in a modular way, which makes it possible to quickly add new logistics centres to build up the entire logistics network of Swiss Post and to test the economic and ecological benefits of investing in new logistics infrastructure. It is being considered to replace the existing combinatorial optimisation algorithm with new methods from the field of reinforcement learning, thus taking advantage of synergies from other projects such as the [Flatland Association](https://isandaiinaviation.github.io/2023-07-25-SBB-and-ZHAW-collaborating-in-Flatland.html).
+The digital twin model is designed in a modular way, which makes it possible to quickly add new logistics centres to build up the entire logistics network of Swiss Post and to test the economic and ecological benefits of investing in new logistics infrastructure. It is being considered to replace the existing combinatorial optimisation algorithm with new methods from the field of reinforcement learning, thus taking advantage of synergies from other projects such as the [Flatland Association](https://isandaiinaviation.github.io/pages/news/2023-07-25-SBB-and-ZHAW-collaborating-in-Flatland.html).
 
 
 ### Acknowledgment
