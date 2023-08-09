@@ -3,8 +3,8 @@ title: News
 description: Our latest news and blog posts
 post_title: SBB, T-Systems and ZHAW are establishing the Flatland Association.
 layout: post
-date: 2023-08-08
-modified: 2023-08-08
+date: 2023-07-25
+modified: 2023-07-25
 category: AI, Reinforcement Learning, Railway Transportation
 comments: true
 ---
