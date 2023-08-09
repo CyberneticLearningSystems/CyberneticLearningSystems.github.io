@@ -20,15 +20,3 @@ The research group was or is involved in the following past and ongoing projects
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
 </html>
 
-<!--
-# Supervised Theses BSc/MSc/PhD
-
-The ongoing supervision of theses at all levels is an important component alongside research and teaching activities. The close support of students, if they wish so, but also the opportunity for them to choose their own project and pursue their research questions in collaboration with or without industrial partners, is part of the group's success story. The following selected theses were supervised by members of the research group.
-
-
-| **Date**         | **Level**         | **Titel**         |
-|:-------------|:-------------|:-------------|
-| Spring 23 | MSc | High-Fidelity UAV Simulation Tool for the Support of SORA Process Based <br> Validation of Operational Flight Volume and Ground Risk Buffer |
-| Spring 23| BSc | Test Test Test |
-| Fall 23| PhD | Test1 Test1 Test1 |
--->
