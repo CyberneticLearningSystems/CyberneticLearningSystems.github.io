@@ -9,7 +9,7 @@ In cooperation with Swiss Post, our research group has developed a digital twin 
 ![Branching](./../../pictures/post_digital_twin.png)
 _Figure: A cut-out of the model of the digital twin for the parcel logistics centre in Frauenfeld._
 
-The digital twin model is already available as a prototype to test its ability to support the dispatcher in finding the optimal way to transport the parcel between the logistics centre in Frauenfeld and Häerkingen. A GUI has been developed to allow the dispatcher to see the solution computed by the optimisation algorithm, to add constraints to the algorithm before it is re-run, and to test certain What-If scenarios by re-assigning transports at his request, with the digital twin in the background testing the consequences.
+The digital twin model is already available as a prototype to test its ability to support the dispatcher in finding the optimal way to transport the parcel between the logistics centre in Frauenfeld and Härkingen. A GUI has been developed to allow the dispatcher to see the solution computed by the optimisation algorithm, to add constraints to the algorithm before it is re-run, and to test certain What-If scenarios by re-assigning transports at his request, with the digital twin in the background testing the consequences.
 
 ![Branching](./../../pictures/post_digital_twin_gui.png)
 _Figure: Representation of the prototype's GUI to adjust the optimization algorithm and run What-If scenarios._
