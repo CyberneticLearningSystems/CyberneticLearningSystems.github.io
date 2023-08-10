@@ -12,7 +12,31 @@ comments: true
 In collaboration with Swissport we successfully received funding from Innosuisse for the innovation project on tailored deep reinforcement learning method with human feedback (RLHF) to enhance resource-efficient dispatching and operational delay reduction. A co-learning approach between the human and AI expert system to increases operational awareness and trustworthiness.
 <!-- more -->
 
-<centre><img src="https://isandaiinaviation.github.io/pictures/zhaw_swissport_project_blog.png" class="centre" height="380" width="650" ></centre>
+<centre><img src="https://isandaiinaviation.github.io/pictures/zhaw_swissport_project_blog.png" class="centre" height="400" width="610" ></centre>
+
+<html>
+<head>
+    <title>Centered Image</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            min-height: 100vh;
+            margin: 0;
+        }
+        .centered-image {
+            max-width: 60%;
+            max-height: 60%;
+        }
+    </style>
+</head>
+<body>
+    <div class="centered-image">
+        <img src="https://isandaiinaviation.github.io/pictures/zhaw_swissport_project_blog.png" alt="Centered Image">
+    </div>
+</body>
+</html>
 
 The innovation project will enable Swissport to further innovate in airport operations research by better predicting upcoming turnaround delays and responding to deviations from normal operations with optimal resource allocation. The AI expert system, based on reinforcement learning, will support human dispatchers in their daily work and reduce the workload during normal operations. During periods of disruption to normal operations, a successful human-AI teaming and co-learning approach will leverage the strength of the human operator and the AI algorithms. Employee feedback is therefore critical for the reinforcement learning algorithm to improve its solution and suggest solutions to the human dispatcher that are closer to what a colleague will do than what a computer will come up with. Overall, the solution will help improve the quality of service provided to Swissport's customers and keep Swissport at the forefront of aircraft ground handling.
 
