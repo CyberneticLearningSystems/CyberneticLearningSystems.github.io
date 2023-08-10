@@ -1,7 +1,7 @@
 ---
 title: News
 description: Our latest news and blog posts
-post_title: Innosuisse Project to optimize 
+post_title: Swissport - Receives funding from Innosuisse to apply reinforcement learning with human feedback to staff dispatching
 layout: post
 date: 2023-08-11
 modified: 2023-08-11
