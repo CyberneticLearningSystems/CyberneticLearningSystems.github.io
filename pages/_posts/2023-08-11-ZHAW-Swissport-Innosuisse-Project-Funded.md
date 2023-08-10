@@ -18,13 +18,6 @@ In collaboration with Swissport we successfully received funding from Innosuisse
 <head>
     <title>Centered Image</title>
     <style>
-        body {
-            display: flex;
-            justify-content: center;
-            align-items: center;
-            min-height: 100vh;
-            margin: 0;
-        }
         .centered-image {
             max-width: 60%;
             max-height: 60%;
