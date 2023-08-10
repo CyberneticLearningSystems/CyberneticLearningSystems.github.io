@@ -12,8 +12,6 @@ comments: true
 In collaboration with Swissport we successfully received funding from Innosuisse for the innovation project on tailored deep reinforcement learning method with human feedback (RLHF) to enhance resource-efficient dispatching and operational delay reduction. A co-learning approach between the human and AI expert system to increases operational awareness and trustworthiness.
 <!-- more -->
 
-<centre><img src="https://isandaiinaviation.github.io/pictures/zhaw_swissport_project_blog.png" class="centre" height="400" width="610" ></centre>
-
 <div style="text-align:center;">
     <img src="https://isandaiinaviation.github.io/pictures/zhaw_swissport_project_blog.png" alt="Centered Image" style="max-width: 60%; height: auto;">
 </div>
