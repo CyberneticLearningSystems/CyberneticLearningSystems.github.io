@@ -5,7 +5,7 @@ description: A research focus with various publications and participation in con
 ---
 
 
-![Branching](./../../pictures/Airline_Profit_Concept_v2.png)
+![Branching](./../../pictures/Airline_Profit_Concept_v3.png)
 _Figure 1: Conceptual model of the airline profit simulation and the subsequent clustering/PCA approach._
 
 The airline industry follows a strongly cyclical profit development, which brings high profits but also huge losses with a period of about 10 years. The causes and effects are studied using a wide range of statistical techniques, artificial intelligence and simulation methods.
