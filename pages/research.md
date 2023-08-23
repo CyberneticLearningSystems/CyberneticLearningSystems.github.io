@@ -6,7 +6,7 @@ description: Our current and past research projects as well as some selected sup
 
 # Research Projects
 
-The research group was or is involved in the following past and ongoing projects.
+The research group was or is involved in the following past and ongoing projects:
 
 - [Meteoblue - High-Resolution Urban Climate ](./projects/urban-climate.md)
 - [Wisk - Vertiport Simulation for Urban Air Mobility](./projects/vertiport-simulation.md)
