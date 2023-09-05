@@ -4,47 +4,33 @@ title: Team
 description: Our trusted man- and womanpower behind the computers!
 ---
 
-# **!This page is under maintenace right know!**
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html><!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+# **Who are we?**
+We are a small team consisting of three curious people interested in developing innovative solutions to problems in a diverse range of use-cases. We love to tackle big problems
+that require new approaches and live by the motto "If you can think it, you can achieve it". We'd love to take this opportunity to introduce ourselves:
 
-
-
+<br>
 
 ### Dr. Manuel Renold - Team Lead
 
 Feel free to visit Manuel on [LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/).
-
-
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>
 
 ### Julia Usher - PhD Candidate
+<img src="./../pictures/julia.jpg" align="left" height="150" style="margin-right: 20px">
+
 Julia began her academic career in 2017 with the beginning of her BSc. in Aviation at the Zurich Univeristy of Applied Sciences. It was after her Bachelor's that she began 
 working as a research assistant in Manuel's team while completing her Master's in Engineering from 2020-2023, deepening her knowledge of statistical methods, optimisation 
 and discovering a fascination for AI and ML. The culmination of three years of employment and studies was her Master Thesis, in which she developed a proof of concept for a 
-reinforcement learning agent for the scheduling of ground handling equipment, proving the validity of the method and providing the theoretical and mathematical foundation 
-for the Swissport (PROJECT OFFICIAL NAME??). The next step in her career is now underway - she will stay on in Manuel's team as a PhD Candidate, working primarily for the 
-AI4REALNET project in the field of human-machine co-learning and the continuation of her Master's Thesis in the Swissport (OFFICIAL PROJECT NAME??). 
+reinforcement learning agent for the scheduling of ground handling equipment, proving the validity of the method proposed in the [brAIght](./projects/braight.md) project. The next step in her career 
+is now underway - she will stay on in Manuel's team as a PhD Candidate, working primarily for the [AI4REALNET](./projects/ai4realnet.md) 
+project in the field of human-machine co-learning and the continuation of her Master's Thesis in the [brAIght](./projects/braight.md) project.
 
-After a day's work, you're most likely to find Julia with a volleyball in hand, either coaching or training. If you can't find her there, 
-she'll be at the gym or - as the green thumb of the group - taking care of her urban jungle at home. The weekends of the warmer months are mostly spent outside on 
-"relaxing" alpine hikes, via ferratas and nights sleeping outside under the stars. While still hiking in winter, she's more likely to be spotted on her skis (or in
-the snow). 
+After a day's work, you're most likely to find Julia with a volleyball in hand or - as the green thumb of the group - taking care of her urban jungle at home. The weekends  
+of the warmer months are mostly spent outside on "relaxing" alpine hikes and nights sleeping outside under the stars. While still hiking in winter, she's more likely to 
+be spotted on her skis (or next to them). 
 
 Feel free to visit Julia on [LinkedIn](https://www.linkedin.com/in/juliausher/).
-
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>
 
 ### Janik Vollenweider - Researcher
 
