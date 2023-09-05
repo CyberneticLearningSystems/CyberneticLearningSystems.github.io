@@ -4,16 +4,14 @@ title: Publications and Conferences
 description: Our publications in scientific journals and presentations and at conferences
 ---
 
-We are proud to be regularly publishing in scientific journals and hold speeches at conferences around the world. Our research activities lead us to actively 
-participate in hosting, co-hosting or chairing well-known conferences. For example, Manuel Renold recently chaired at the [International conference for Research in Air 
-Transportation (ICRAT)](https://www.icrat.org/ ) and at the [Air Transport Research Society World Conference (ATRS)](https://www.atrsworld.org/). He is also editor of the journal [AI in Aviation](https://www.frontiersin.org/research-topics/19880/ai-in-aviation), which is 
-part of the well-known journal Fontiers. Our team are also actively involved in the organisation of the [Applied Machine Learning Days](https://appliedmldays.org/) at the EPFL in Lausanne, which 
-attracts (facts about AMLD). 
-
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+We are proud to be regularly publishing in scientific journals and holding speeches at conferences around the world. 
+Our research activities lead us to actively participate in hosting, co-hosting or chairing well-known conferences. 
+For example, Manuel Renold recently chaired at the [International conference for Research in Air Transportation 
+(ICRAT)](https://www.icrat.org/ ) and at the [Air Transport Research Society World Conference (ATRS)](https://www.atrsworld.org/). He is 
+also editor of thejournal [AI in Aviation](https://www.frontiersin.org/research-topics/19880/ai-in-aviation), which is part of the well-known journal Fontiers. Our team are
+also actively involved in the organisation of the [Applied Machine Learning Days](https://appliedmldays.org/) at the 
+EPFL in Lausanne, which attracts (facts about AMLD)
+<br>
 
 # Selected Peer-reviewed Publications
 

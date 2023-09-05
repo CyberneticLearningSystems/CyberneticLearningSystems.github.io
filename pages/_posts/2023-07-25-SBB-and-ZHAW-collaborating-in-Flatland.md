@@ -28,8 +28,8 @@ developed a high-performance simulator that simulates both the dynamics of train
 _Figure: Visualization of the Flatland simulation environment_
 
 ## What's next?
-Flatland's mission is to foster innovation and open the way for new solutions to the resource allocation problem by applying the existing and continously developed 
-Flatland simulation environment. It is our vision that Flatland becomes a hub for open research, providing space for highly specialised, but also cross-disciplinary 
+Flatland's mission is to foster innovation and open the way for new solutions to the resource allocation problem by 
+applying the existing and continuously developed Flatland simulation environment. It is our vision that Flatland becomes a hub for open research, providing space for highly specialised, but also cross-disciplinary 
 exchange. To this end, Flatland provides a rigorous technical problem formulation and a standard benchmark that is recognised by both the industry and the academic research 
 community. For more visit the website of the [Flatland Association](https://www.flatland-association.org/) or get further information via [Flatland on AIcrowd](https://flatland.aicrowd.com/intro.html).
 
@@ -39,20 +39,9 @@ community. For more visit the website of the [Flatland Association](https://www.
 - [Flatland-RL : Multi-Agent Reinforcement Learning on Trains](https://arxiv.org/pdf/2103.16511.pdf)
 - [Flatland Competition 2020: MAPF and MARL for Efficient Train Coordination on a Grid World](https://arxiv.org/pdf/2012.05893.pdf)
 
-
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>
 
 
 [Back](https://isandaiinaviation.github.io/pages/news.html)
 
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>

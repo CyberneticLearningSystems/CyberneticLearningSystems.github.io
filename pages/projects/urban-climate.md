@@ -4,15 +4,16 @@ title: High-Resolution Urban Climate
 description: Innosuisse project in collaboration with Meteoblue
 ---
 
-In cooperation with Meteoblue, the aim of the urban climate project was to produce high-resolution temperature maps of the city of Zurich. The maps were generated using a Generative 
-Adversarial Network (GAN), which draws data from large-scale weather model. The training data set for the algorithms used consisted of a network of over 250 measuring 
+In cooperation with Meteoblue, the aim of the urban climate project was to produce high-resolution (HR) temperature 
+maps of the city of Zurich. The maps were generated using a Generative Adversarial Network (GAN), which draws data from 
+large-scale weather model. The training data set for the algorithms used consisted of a network of over 250 measuring 
 stations within the city of Zurich.
 
 ![Branching](./../../pictures/meteoblue_stadtklima.png)
-_Figure: Heat-Map of Zurich showing the forecasted temperature differences within the city._
+_Figure: Heatmap of Zurich showing the forecasted temperature differences within the city._
 
-The Meteoblue Urban Climate project combines state-of-the-art methods from the field of machine learning to form a novel pipeline for the generation of high-resolution 
-(HR) urban temperature maps. The proposed method is two-fold, utilising an adapted regression forest (RF) technique to generate dense HR temperature maps using datapoints 
+The Meteoblue Urban Climate project combines state-of-the-art methods from the field of machine learning to form a novel pipeline for the generation of  
+HR urban temperature maps. The proposed method is two-fold, utilising an adapted regression forest (RF) technique to generate dense HR temperature maps using datapoints 
 from a sparse in-situ measurement network and a series of meteorological (dynamic) and geospatial (static) feature variables. The measurement network encompasses over 250 stations throughout 
 urban Zurich, delivering temperature and humidity measurements every 10 minutes over two years. By adjusting geospatial features, it becomes possible to evaluate the 
 influence of urban projects (for example greening or removal of parks) on temperature at that specific location as well as surrounding areas.

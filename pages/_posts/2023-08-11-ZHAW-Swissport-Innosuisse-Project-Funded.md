@@ -26,14 +26,9 @@ the reinforcement learning algorithm to improve its solution quality and suggest
 a computer will come up with. Overall, the solution will help improve the quality of service provided to Swissport's customers and keep Swissport at the forefront of 
 aircraft ground handling.
 
+<br>
+
 
 [Back](https://isandaiinaviation.github.io/pages/news.html)
 
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>

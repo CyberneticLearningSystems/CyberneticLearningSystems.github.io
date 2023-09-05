@@ -35,12 +35,7 @@ description: We are proud to list all our trusted partners and collaborators.
 - [SNCF (Französische Bahn)](https://www.sncf.com/en/group/profile-and-key-figures/about-us/who-we-are) 
 - [Die Schweizerische Post AG](https://www.post.ch/de)
 - [Quickpac](https://quickpac.ch/de)
-
-
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>
 
 # Partners from Academia
 
