@@ -27,6 +27,7 @@ fully AI-based decision systems with a focus on the railway domain, and is stron
 Reinforcement Learning), XAI (Explainable AI) and RL for large networks. The team also contributes to the improvement of the Flatland simulation environment.
 
 ### Acknowledgment
-This is a funded research project by the European Union and their research initiative Horizon Europe. The project is ongoing with start in September 2023. 
+This is a funded research project by the European Union and their research initiative Horizon Europe. The project is 
+ongoing with a start in September 2023. 
 
 [Back](https://isandaiinaviation.github.io/pages/research.html)
