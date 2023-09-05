@@ -17,10 +17,7 @@ we are glade to introduce ourselves and  present our projects, interests and eng
 > 
 > *Feel free to contact us any time*
 
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>
 
 Our team applies data-driven artificial intelligence algorithms to operations research, focusing on 
 industry needs. While our projects are mainly centred around the aviation industry under the term "AI in Aviation", 
@@ -29,18 +26,12 @@ models to more advanced methods such as deep learning models for computer vision
 The latter is the direction we are heading with our latest research projects (e.g. see [AI4REALNET](./pages/projects/ai4realnet.md)).
 
 
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>
 
 ![Branching](./pictures/home_bild.png)
 Picture: [David Augsburger](https://www.instagram.com/augsburgair/)
 
-<!--The code below is only used as spacer-->
-<html>
-  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
-</html>
+<br>
 
 Our fields of expertise range from classic statistical methods to stochastic and machine-based optimization (e.g. Evolutionary Multi-Objective Optimization), 
 macro- and micro-economic analyses and the modelling and simulation of aviation processes on the ground and in the air. In addition to the development of conventional 
