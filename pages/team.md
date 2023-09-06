@@ -59,7 +59,7 @@ master's degree, Janik started as a research assistant in Manuel's team. He main
 Aurora Flight Sciences. Through his knowledge of agent-based simulation, acquired during his bachelor thesis, he also assisted in lectures on passenger flow simulations 
 at airports. He demonstrated his knowledge of airline profit in a project thesis during his master's degree and was involved in the underlying research within the group.
 
-As the drone nerd in the group, he focused his master's thesis on developing a high-fidelity UAV simulation to validate operational flight procedures that require a 
+As the drone nerd in the group, he focused his [master's thesis](./paper_theses/MT_janik_vollenweider.md) on developing a high-fidelity UAV simulation to validate operational flight procedures that require a 
 permit to fly. Together with the start-up [incluas](https://incluas.ch/), he explored new ways to reduce the costs of real-flight tests required for drone operations that require a 
 flight approval. When he's not sitting behind his desk, he's repairing and tuning his FPV drones or enjoying the freedom of pushing them through tiny gaps or flying 
 them at speeds of up to 120 km/h within half a metre of the ground... a lot of crashes included. True to the motto "Fail Fast, Fail Often!"
