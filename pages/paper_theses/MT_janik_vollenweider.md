@@ -1,7 +1,7 @@
 ---
 layout: default
 title: High-Fidelity UAV Simulator
-description: Master Thesis Janik Vollenweider 
+description: Master Thesis - Janik Vollenweider March 2022 until March 2023
 ---
 
 # High-Fidelity UAV Simulation Tool for the Support of SORA Process Based Validation of Operational Flight Volume and Ground Risk Buffer
