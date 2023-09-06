@@ -47,7 +47,7 @@ of the warmer months are mostly spent outside on "relaxing" alpine hikes and nig
 be spotted on her skis (or next to them).
 
 [LinkedIn](https://www.linkedin.com/in/juliausher/).
-<br>
+
 
 ### Janik Vollenweider - Researcher
 
