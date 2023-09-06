@@ -18,3 +18,4 @@ The research group was or is involved in the following past and ongoing projects
 
 <br>
 
+- [MT Janik Vollenweider](./paper_theses/MT_janik_vollenweider.md)
