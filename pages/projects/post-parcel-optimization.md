@@ -24,7 +24,7 @@ _Figure 2: Representation of the prototype's GUI to adjust the optimisation algo
 The digital twin model is designed in a modular way, which makes it possible to quickly add new logistics centres to build up the entire logistics network of Swiss Post 
 and to test the economic and ecological benefits of investing in new logistics infrastructure. Future developments include considering replacing the current combinatorial
 optimisation algorithm with alternatives from the fields of machine and reinforcement learning, whereby synergies with other projects such as the [Flatland Association](./../news.md)
-would be exploited.
+would be exploited
 
 
 ### Acknowledgment
