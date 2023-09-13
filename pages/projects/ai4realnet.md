@@ -30,4 +30,4 @@ Reinforcement Learning), XAI (Explainable AI) and RL for large networks. The tea
 This is a funded research project by the European Union and their research initiative Horizon Europe. The project is 
 ongoing with a start in September 2023. 
 
-[Back](https://isandaiinaviation.github.io/pages/research.html)
+[Back](https://intelligentsystemsgroup.github.io/pages/research.html)
