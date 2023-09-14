@@ -42,13 +42,14 @@ The research group has supervised the following theses in the corresponding fiel
         </table>
         <br>
         <b>Types:</b>
-        - PA: Bachelor project thesis
-        - BA: Bachelor thesis
-        - VT1: Master specialization project thesis 1
-        - VT2: Master specialization project thesis 2
-        - MT: Master thesis
+        <ul>
+            <li>PA: Bachelor project thesis</li>
+            <li>BA: Bachelor thesis</li>
+            <li>VT1: Master specialization project thesis 1</li>
+            <li>VT2: Master specialization project thesis 2</li>
+            <li>MT: Master thesis</li>
+        </ul>
 </details>
-
 
 <br>
 
