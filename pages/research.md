@@ -37,7 +37,7 @@ The research group has supervised the following theses in the corresponding fiel
                 <td>Spring 2022</td>
                 <td>MSc</td>
                 <td>MT</td>
-                <td>High-Fidelity UAV Simulation Tool for the Support<br>of SORA Process Based Validation of<br>Operational Flight Volume and Ground Risk Buffer</td>
+                <td><a href="https://intelligentsystemsgroup.github.io/pages/news.html">High-Fidelity UAV Simulation Tool for the Support<br>of SORA Process Based Validation of Operational<br>Flight Volume and Ground Risk Buffer</a></td>
             </tr>
         </table>
         <br>
