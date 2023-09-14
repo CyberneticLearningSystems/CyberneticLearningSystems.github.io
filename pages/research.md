@@ -60,6 +60,7 @@ The research group has supervised the following theses in the corresponding fiel
 
 
 <details>
+
   <summary>Click me</summary>
   </b>
   ### Heading
