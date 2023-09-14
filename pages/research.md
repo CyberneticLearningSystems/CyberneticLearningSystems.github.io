@@ -50,9 +50,7 @@ The research group has supervised the following theses in the corresponding fiel
             <li>MT: Master thesis</li>
         </ul>
 </details>
-
 <br>
-
 <details>
     <summary><b>AI, Machine & Reinforcement Learning</b></summary>
         <br>
