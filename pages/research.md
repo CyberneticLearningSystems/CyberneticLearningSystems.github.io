@@ -64,6 +64,7 @@ The research group has supervised the following theses in the corresponding fiel
   <summary>Click me</summary>
   </b>
   ### Heading
+  
   1. Foo
   2. Bar
      * Baz
