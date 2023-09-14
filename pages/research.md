@@ -23,6 +23,7 @@ The research group was or is involved in the following past and ongoing projects
 
 The research group has supervised the following theses in the corresponding fields (click to expand):
 
+<!--Table for all theses focusing on simulations -->
 <details>
     <summary><b>Simulation</b></summary>
         <br>
@@ -51,7 +52,7 @@ The research group has supervised the following theses in the corresponding fiel
         </ul>
 </details>
 
-
+<!--Table for all theses focusing on AI/ML/RL -->
 <details>
     <summary><b>AI, Machine & Reinforcement Learning</b></summary>
         <br>
