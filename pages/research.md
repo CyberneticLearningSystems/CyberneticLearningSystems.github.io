@@ -38,6 +38,7 @@ The research group has supervised the following theses in the corresponding fiel
         * VT2: Master specialization project thesis 2
         * MT: Master thesis
         * MAS: Master thesis in continuing education
+        
 </details>
 
 <details>
