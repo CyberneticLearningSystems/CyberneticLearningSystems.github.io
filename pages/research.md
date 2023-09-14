@@ -59,26 +59,19 @@ The research group has supervised the following theses in the corresponding fiel
 </details>
 
 
-<details><summary>Open to view Data Dictionary</summary>
+<details>
+  <summary>Click me</summary>
+  
+  ### Heading
+  1. Foo
+  2. Bar
+     * Baz
+     * Qux
 
-|Feature|Format|Type|Description|
-|---|---|---|---|
-|**Id**|*integer*|Nominal|Identifier for each property.|
-|**PID**|*integer*|Nominal|Parcel identification number - can be usedwith city web site for parcel review.|
-|**MS SubClass**|*integer*|Nominal|Identifies the type of dwellinginvolved in the sale. Type is coded, please refer to full datadocumentation|
-|**MS Zoning**|*string*|Nominal|Identifies the general zoningclassification of the sale.|
+  ### Some Javascript
+  ```js
+  function logSomething(something) {
+    console.log('Something', something);
+  }
+  ```
 </details>
-
-
-| **When** | **Level** | **Type** | **Title** |
-| --- | --- | --- | --- |
-| Spring 2022 | BSc | BA | Test2 Test2 |
-
-
-**Types:**
-* PA: Bachelor project thesis
-* BA: Bachelor thesis
-* VT1: Master specialization project thesis 1
-* VT2: Master specialization project thesis 2
-* MT: Master thesis
-* MAS: Master thesis in continuing education
