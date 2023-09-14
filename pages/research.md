@@ -25,7 +25,7 @@ The research group has supervised the following theses in the corresponding fiel
 
 <details>
     <summary><b>Simulation</b></summary>
-    
+
         | **When** | **Level** | **Type** | **Title** |
         | --- | --- | --- | --- |
         | Spring 2022 | MSc | MT | Test Test |
@@ -41,19 +41,29 @@ The research group has supervised the following theses in the corresponding fiel
 </details>
 
 <details>
-<summary>AI / ML / RL /</summary>
+    <summary>AI / ML / RL /</summary>
 
-| **When** | **Level** | **Type** | **Title** |
-| --- | --- | --- | --- |
-| Spring 2022 | BSc | BA | Test2 Test2 |
+        | **When** | **Level** | **Type** | **Title** |
+        | --- | --- | --- | --- |
+        | Spring 2022 | BSc | BA | Test2 Test2 |
 
 
-**Types:**
-  * PA: Bachelor project thesis
-  * BA: Bachelor thesis
-  * VT1: Master specialization project thesis 1
-  * VT2: Master specialization project thesis 2
-  * MT: Master thesis
-  * MAS: Master thesis in continuing education
+        **Types:**
+        * PA: Bachelor project thesis
+        * BA: Bachelor thesis
+        * VT1: Master specialization project thesis 1
+        * VT2: Master specialization project thesis 2
+        * MT: Master thesis
+        * MAS: Master thesis in continuing education
+</details>
 
+
+<details><summary>Open to view Data Dictionary</summary>
+
+|Feature|Format|Type|Description|
+|---|---|---|---|
+|**Id**|*integer*|Nominal|Identifier for each property.|
+|**PID**|*integer*|Nominal|Parcel identification number - can be usedwith city web site for parcel review.|
+|**MS SubClass**|*integer*|Nominal|Identifies the type of dwellinginvolved in the sale. Type is coded, please refer to full datadocumentation|
+|**MS Zoning**|*string*|Nominal|Identifies the general zoningclassification of the sale.|
 </details>
