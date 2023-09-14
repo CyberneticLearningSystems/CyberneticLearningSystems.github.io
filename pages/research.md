@@ -42,17 +42,20 @@ The research group has supervised the following theses in the corresponding fiel
 </details>
 
 <details>
-    <summary>AI / ML / RL /</summary>
+    <summary><b>AI, Machine & Reinforcement Learning</b></summary>
+        <br>
         <table>
             <tr> 
-                <td>Column 1</td>
-                <td>Column 2</td>
-                <td>Column 3</td>
+                <td><b>When</b></td>
+                <td><b>Level</b></td>
+                <td><b>Type</b></td>
+                <td><b>Title</b></td>
             </tr>
             <tr> 
-                <td>Column 1</td>
-                <td>Column 2</td>
-                <td>Column 3</td>
+                <td>Spring 2022</td>
+                <td>MSc</td>
+                <td>MT</td>
+                <td>Test Test Test</td>
             </tr>
         </table>
 </details>
