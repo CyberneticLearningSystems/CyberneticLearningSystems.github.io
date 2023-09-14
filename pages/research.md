@@ -63,13 +63,19 @@ The research group has supervised the following theses in the corresponding fiel
                 <td><b>Title</b></td>
             </tr>
             <tr> 
-                <td>Spring 2022</td>
+                <td>Fall 2022</td>
                 <td>MSc</td>
                 <td>MT</td>
-                <td>Test Test Test</td>
+                <td>A Novel Framework for Complex Dynamic Job-Shop Scheduling (DJSP) using Reinforcement Learning</td>
             </tr>
         </table>
-
-
-
+        <br>
+        <b>Types:</b>
+        <ul>
+            <li>PA: Bachelor project thesis</li>
+            <li>BA: Bachelor thesis</li>
+            <li>VT1: Master specialization project thesis 1</li>
+            <li>VT2: Master specialization project thesis 2</li>
+            <li>MT: Master thesis</li>
+        </ul>
 </details>
