@@ -65,3 +65,26 @@ flight approval. When he's not sitting behind his desk, he's repairing and tunin
 them at speeds of up to 120 km/h within half a metre of the ground... a lot of crashes included. True to the motto "Fail Fast, Fail Often!"
 
 [LinkedIn](https://www.linkedin.com/in/janik-vollenweider-1144bb1a2)
+
+
+### Oliver Carmignani - Research Assistant
+<img src="./../pictures/oliver.jpeg" align="left" height="150" style="margin-right: 20px">
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
+<!--The code below is only used as spacer-->
+<html>
+  <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+</html>
+
+Feel free to visit Oliver on [LinkedIn](https://www.linkedin.com/in/oliver-carmignani/).
+<br>
