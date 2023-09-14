@@ -43,19 +43,18 @@ The research group has supervised the following theses in the corresponding fiel
 
 <details>
     <summary>AI / ML / RL /</summary>
-
-        | **When** | **Level** | **Type** | **Title** |
-        | --- | --- | --- | --- |
-        | Spring 2022 | BSc | BA | Test2 Test2 |
-
-
-        **Types:**
-        * PA: Bachelor project thesis
-        * BA: Bachelor thesis
-        * VT1: Master specialization project thesis 1
-        * VT2: Master specialization project thesis 2
-        * MT: Master thesis
-        * MAS: Master thesis in continuing education
+        <table>
+            <tr> 
+                <td>Column 1</td>
+                <td>Column 2</td>
+                <td>Column 3</td>
+            </tr>
+            <tr> 
+                <td>Column 1</td>
+                <td>Column 2</td>
+                <td>Column 3</td>
+            </tr>
+        </table>
 </details>
 
 
@@ -63,12 +62,12 @@ The research group has supervised the following theses in the corresponding fiel
 
   <summary>Click me</summary>
   </b>
-  ### Heading
-  
-  1. Foo
-  2. Bar
-     * Baz
-     * Qux
+    ### Heading
+    
+    1. Foo
+    2. Bar
+        * Baz
+        * Qux
 
   ### Some Javascript
   ```js
