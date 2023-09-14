@@ -21,25 +21,36 @@ The research group was or is involved in the following past and ongoing projects
 
 # Supervised Theses
 
-The research group has supervised the following theses in the corresponding fields:
+The research group has supervised the following theses in the corresponding fields (click to expand):
 
 <details>
     <summary><b>Simulation</b></summary>
-
-        | **When** | **Level** | **Type** | **Title** |
-        | --- | --- | --- | --- |
-        | Spring 2022 | MSc | MT | Test Test |
-
-
-        **Types:**
-        * PA: Bachelor project thesis
-        * BA: Bachelor thesis
-        * VT1: Master specialization project thesis 1
-        * VT2: Master specialization project thesis 2
-        * MT: Master thesis
-        * MAS: Master thesis in continuing education
-        
+        <br>
+        <table>
+            <tr> 
+                <td><b>When</b></td>
+                <td><b>Level</b></td>
+                <td><b>Type</b></td>
+                <td><b>Title</b></td>
+            </tr>
+            <tr> 
+                <td>Spring 2022</td>
+                <td>MSc</td>
+                <td>MT</td>
+                <td>Test Test Test</td>
+            </tr>
+        </table>
+        <br>
+        <b>Types:</b>
+        - PA: Bachelor project thesis
+        - BA: Bachelor thesis
+        - VT1: Master specialization project thesis 1
+        - VT2: Master specialization project thesis 2
+        - MT: Master thesis
 </details>
+
+
+<br>
 
 <details>
     <summary><b>AI, Machine & Reinforcement Learning</b></summary>
@@ -58,24 +69,7 @@ The research group has supervised the following theses in the corresponding fiel
                 <td>Test Test Test</td>
             </tr>
         </table>
-</details>
 
 
-<details>
 
-  <summary>Click me</summary>
-  </b>
-    ### Heading
-    
-    1. Foo
-    2. Bar
-        * Baz
-        * Qux
-
-  ### Some Javascript
-  ```js
-  function logSomething(something) {
-    console.log('Something', something);
-  }
-  ```
 </details>
