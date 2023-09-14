@@ -18,3 +18,41 @@ The research group was or is involved in the following past and ongoing projects
 
 <br>
 
+
+# Supervised Theses
+
+The research group has supervised the following theses in the corresponding fields:
+
+<details>
+<summary>Simulation</summary>
+| **When** | **Level** | **Type** | **Title** |
+| --- | --- | --- | --- |
+| Spring 2022 | MSc | MT | Test Test |
+
+
+**Types:**
+  * PA: Bachelor project thesis
+  * BA: Bachelor thesis
+  * VT1: Master specialization project thesis 1
+  * VT2: Master specialization project thesis 2
+  * MT: Master thesis
+  * MAS: Master thesis in continuing education
+</details>
+
+<details>
+<summary>AI / ML / RL /</summary>
+
+| **When** | **Level** | **Type** | **Title** |
+| --- | --- | --- | --- |
+| Spring 2022 | BSc | BA | Test2 Test2 |
+
+
+**Types:**
+  * PA: Bachelor project thesis
+  * BA: Bachelor thesis
+  * VT1: Master specialization project thesis 1
+  * VT2: Master specialization project thesis 2
+  * MT: Master thesis
+  * MAS: Master thesis in continuing education
+
+</details>
