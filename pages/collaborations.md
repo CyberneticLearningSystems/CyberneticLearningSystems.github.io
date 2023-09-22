@@ -67,4 +67,6 @@ The research group is a member of the following networks and actively participat
 
 - [Datalab - The ZHAW Data Science Laboratory](https://www.zhaw.ch/en/research/inter-school-cooperation/datalab-the-zhaw-data-science-laboratory/)
 - [Flatland](https://flatland.aicrowd.com/intro.html) or [Flatland Association](https://www.flatland-association.org/)
+- [GAIASIM](https://gaiasim.org/)
+- [Frontiers in AI in Aviation](https://www.frontiersin.org/research-topics/19880/ai-in-aviation)
 
