@@ -30,9 +30,9 @@ On behalf of the entire research group, we would like to congratulate Fabiano on
 
 ## Further Links
 
-[Blog-Post of Swiss Engineering](https://www.swissengineering.ch/verband/-/asset_publisher/SjHk9nWjWZE9/content/wi-award-umsetzbarkeit-und-praxisbezug-werden-honoriert?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9_redirect=https%3A%2F%2Fwww.swissengineering.ch%2Fverband%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9_assetEntryId%3D11700954)
+[Blog Post from Swiss Engineering](https://www.swissengineering.ch/verband/-/asset_publisher/SjHk9nWjWZE9/content/wi-award-umsetzbarkeit-und-praxisbezug-werden-honoriert?_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9_redirect=https%3A%2F%2Fwww.swissengineering.ch%2Fverband%3Fp_p_id%3Dcom_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9%26p_p_lifecycle%3D0%26p_p_state%3Dnormal%26p_p_mode%3Dview%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9_cur%3D0%26p_r_p_resetCur%3Dfalse%26_com_liferay_asset_publisher_web_portlet_AssetPublisherPortlet_INSTANCE_SjHk9nWjWZE9_assetEntryId%3D11700954)
 
-[Blog-Post of ZHAW](https://www.zhaw.ch/de/engineering/studium/masterstudium/karriere/taxi-drohnen-im-raum-zuerich-zhaw-absolvent-fabiano-ulmke-erhaelt-auszeichnung-fuer-masterarbeit-in-wirtschaftsingenieurwesen/)
+[Blog Post from ZHAW](https://www.zhaw.ch/de/engineering/studium/masterstudium/karriere/taxi-drohnen-im-raum-zuerich-zhaw-absolvent-fabiano-ulmke-erhaelt-auszeichnung-fuer-masterarbeit-in-wirtschaftsingenieurwesen/)
 
 
 <br>
