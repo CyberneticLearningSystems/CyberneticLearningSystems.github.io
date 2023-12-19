@@ -19,7 +19,7 @@ As a physicist, mathematician, computer scientist , former climatologist and sim
 <br>
 
 ### Julia Usher - PhD Candidate
-<img src="./../pictures/julia_bw.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/julia_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
 
 Julia began her academic career in 2017 with the beginning of her BSc. in Aviation at the Zurich Univeristy of Applied Sciences. It was after her Bachelor's that she began
 working as a research assistant in Manuel's team while completing her Master's in Engineering from 2020-2023, deepening her knowledge of statistical methods, optimisation
@@ -37,7 +37,7 @@ be spotted on her skis (or next to them).
 
 ### Janik Vollenweider - Senior Researcher
 
-<img src="./../pictures/janik_bw.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/janik_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
 
 Janik completed his BSc. in Aviation in 2020 and continued his Master in Engineering with specialisation in Aviation from 2020 to 2023. He gained professional
 experience in the transport industry at SBB and during his bachelor's degree through an internship at Zimex Aviation followed by part-time employment. During his 
@@ -54,7 +54,7 @@ them at speeds of up to 120 km/h within half a metre of the ground... a lot of c
 
 
 ### Oliver Carmignani - Research Assistant
-<img src="./../pictures/oliver_bw.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/oliver_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
 <!--The code below is only used as spacer-->
 <html>
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
