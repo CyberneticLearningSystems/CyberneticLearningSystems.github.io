@@ -18,12 +18,12 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="https://cyberneticlearningsystems.github.io/" class="btn">Home</a>
-      <a href="https://cyberneticlearningsystems.github.io/pages/news.html" class="btn">News</a>
-      <a href="https://cyberneticlearningsystems.github.io/pages/research.html" class="btn">Research</a>
-      <a href="https://cyberneticlearningsystems.github.io/pages/publications.html" class="btn">Publications</a>
-      <a href="https://cyberneticlearningsystems.github.io/pages/collaborations.html" class="btn">Collaborations</a>
-      <a href="https://cyberneticlearningsystems.github.io/pages/team.html" class="btn">Team</a>
+      <a href="{{ site.baseurl }}{% link index.md %}" class="btn">Home</a>
+      <a href="{{ site.baseurl }}{% link pages/news.md %}" class="btn">News</a>
+      <a href="{{ site.baseurl }}{% link pages/research.md %}" class="btn">Research</a>
+      <a href="{{ site.baseurl }}{% link pages/publications.md %}" class="btn">Publications</a>
+      <a href="{{ site.baseurl }}{% link pages/collaborations.md %}" class="btn">Collaborations</a>
+      <a href="{{ site.baseurl }}{% link pages/team.md %}" class="btn">Team</a>
     </header>
 
     <main id="content" class="main-content" role="main">
@@ -31,17 +31,17 @@
 
       <footer class="site-footer">
         <p>
-          <a href="https://cyberneticlearningsystems.github.io/">Home</a>
+          <a href="{{ site.baseurl }}{% link index.md %}"Home</a>
           <a> | </a>
-          <a href="https://cyberneticlearningsystems.github.io/pages/news.html">News</a>
+          <a href="{{ site.baseurl }}{% link pages/news.md %}">News</a>
           <a> | </a>
-          <a href="https://cyberneticlearningsystems.github.io/pages/research.html">Research</a>
+          <a href="{{ site.baseurl }}{% link pages/research.md %}">Research</a>
           <a> | </a>
-          <a href="https://cyberneticlearningsystems.github.io/pages/publications.html">Publications</a>
+          <a href="{{ site.baseurl }}{% link pages/publications.md %}">Publications</a>
           <a> | </a>
-          <a href="https://cyberneticlearningsystems.github.io/pages/collaborations.html">Collaborations</a>
+          <a href="{{ site.baseurl }}{% link pages/collaborations.md %}">Collaborations</a>
           <a> | </a>
-          <a href="https://cyberneticlearningsystems.github.io/pages/team.html">Team</a>
+          <a href="{{ site.baseurl }}{% link pages/team.md %}">Team</a>
         </p> 
         <p style="color:white;">ONLY_HERE_AS_SPACER</p>
         {% if site.github.is_project_page %}

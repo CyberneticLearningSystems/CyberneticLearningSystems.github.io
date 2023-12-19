@@ -105,12 +105,13 @@ a {
   }
 }
 
+/// header image formatting
 .page-header {
   color: $header-heading-color;
   text-align: center;
   background-color: $header-bg-color;
-  background-image: url("./../../pictures/header_image.jpg");
-  background-size: auto 90%;
+  background-image: url("./../../pictures/banner6_extended2.png");
+  background-size: auto 170%;
 
 
   @include large {

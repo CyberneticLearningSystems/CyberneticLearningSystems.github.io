@@ -27,5 +27,5 @@ of the right strategy can happen even earlier. The research group is increasingl
 development of new techniques and approaches. 
 
 
-[Back](https://cyberneticlearningsystems.github.io/research.html)
+[Back]({{ site.baseurl }}{% link index.md %})
 

@@ -12,7 +12,7 @@ comments: true
 In his master thesis Fabiano Ulmke developed a concept for economically viable operation of On-Demand Air Taxis in the greater area of the city of Zurich on behalf of the Lucerne-based aerospace company [Aurora Swiss Aerospace](https://careers.aurora.aero/). By 2035, Fabiano Ulmke estimates that the first air taxis carrying passengers will be operational in Switzerland. Fabiano was awarded by the Association of Business Engineers (VWI) Switzerland for the best Master thesis in Business Engineering in 2023.
 <!-- more -->
 
-![Abbildung: eVOTL on Vertiport](https://cyberneticlearningsystems.github.io/pictures/vertiport_concept.png)
+![Abbildung: eVOTL on Vertiport](../../pictures/vertiport_concept.png)
 _Figure: Visualization of eVOTLs on a vertiport in urban environment. Picture: The Moodie Davitt Report_
 
 ## "Finding an interesting topic was a challenge"
@@ -26,7 +26,7 @@ Looking ahead to his professional carrer, Fabiano Ulmke, currently employed by t
 
 On behalf of the entire research group, we would like to congratulate Fabiano on his outstanding Master's thesis. His dedication, hard work and remarkable contribution have truly impressed us. We are proud that Fabiano has chosen to work with our research group leader, Dr. Manuel Renold, during his Master's degree and Master's thesis. We wish Fabiano all the best in his future career and may he take the opportunity to bring his ideas and vision of a more sustainable aviation to the industry!
 
-![Abbildung: Fabiano Ulmke](https://cyberneticlearningsystems.github.io/pictures/fabiano_swiss_engineering.jpg)
+![Abbildung: Fabiano Ulmke](../../pictures/fabiano_swiss_engineering.jpg)
 _Figure: Fabiano Ulmke being rewarded for his master thesis. Picture: Swiss Engineering_
 
 
@@ -40,6 +40,6 @@ _Figure: Fabiano Ulmke being rewarded for his master thesis. Picture: Swiss Engi
 <br>
 
 
-[Back](https://cyberneticlearningsystems.github.io/pages/news.html)
+[Back]({{ site.baseurl }}{% link index.md %})
 
 <br>

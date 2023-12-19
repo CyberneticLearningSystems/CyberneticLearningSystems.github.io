@@ -29,4 +29,4 @@ Click [here](https://www.meteoblue.com/en/products/cityclimate/heatmaps/zurich#1
 This project was funded by Innosuisse in the period between 2018 and 2022.
 
 
-[Back](https://cyberneticlearningsystems.github.io/research.html)
+[Back]({{ site.baseurl }}{% link index.md %})

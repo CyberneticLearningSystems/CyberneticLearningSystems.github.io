@@ -1,0 +1,102 @@
+<!DOCTYPE html>
+<html lang="en-US">
+  <head>
+    <meta charset="UTF-8">
+
+<!-- Begin Jekyll SEO tag v2.8.0 -->
+<title>High-Fidelity UAV Simulator | Cybernetic Learning Systems</title>
+<meta name="generator" content="Jekyll v4.3.2" />
+<meta property="og:title" content="High-Fidelity UAV Simulator" />
+<meta property="og:locale" content="en_US" />
+<meta name="description" content="Master Thesis - Janik Vollenweider from March 2022 until March 2023" />
+<meta property="og:description" content="Master Thesis - Janik Vollenweider from March 2022 until March 2023" />
+<link rel="canonical" href="http://localhost:4000/pages/papers-theses/MT-janik-vollenweider.html" />
+<meta property="og:url" content="http://localhost:4000/pages/papers-theses/MT-janik-vollenweider.html" />
+<meta property="og:site_name" content="Cybernetic Learning Systems" />
+<meta property="og:type" content="website" />
+<meta name="twitter:card" content="summary" />
+<meta property="twitter:title" content="High-Fidelity UAV Simulator" />
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"WebPage","description":"Master Thesis - Janik Vollenweider from March 2022 until March 2023","headline":"High-Fidelity UAV Simulator","url":"http://localhost:4000/pages/papers-theses/MT-janik-vollenweider.html"}</script>
+<!-- End Jekyll SEO tag -->
+
+    <link rel="preconnect" href="https://fonts.gstatic.com">
+    <link rel="preload" href="https://fonts.googleapis.com/css?family=Open+Sans:400,700&display=swap" as="style" type="text/css" crossorigin>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#157878">
+    <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+    <link rel="stylesheet" href="/assets/css/style.css?v=">
+    <!-- start custom head snippets, customize with your own _includes/head-custom.html file -->
+
+<!-- Setup Google Analytics -->
+
+<!-- Google tag (gtag.js) -->
+  <script async src="https://www.googletagmanager.com/gtag/js?id=G-HPTPVQ5P7P"></script>
+  <script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag(){dataLayer.push(arguments);}
+    gtag('js', new Date());
+
+    gtag('config', 'G-HPTPVQ5P7P');
+  </script>
+
+
+<!-- You can set your favicon here -->
+<!-- link rel="shortcut icon" type="image/x-icon" href="/favicon.ico" -->
+
+<!-- end custom head snippets -->
+
+  </head>
+  <body>
+    <a id="skip-to-content" href="#content">Skip to the content.</a>
+
+    <header class="page-header" role="banner">
+      <h1 class="project-name">High-Fidelity UAV Simulator</h1>
+      <h2 class="project-tagline">Master Thesis - Janik Vollenweider from March 2022 until March 2023</h2>
+      <a href="/" class="btn">Home</a>
+      <a href="/pages/news.html" class="btn">News</a>
+      <a href="/pages/research.html" class="btn">Research</a>
+      <a href="/pages/publications.html" class="btn">Publications</a>
+      <a href="/pages/collaborations.html" class="btn">Collaborations</a>
+      <a href="/pages/team.html" class="btn">Team</a>
+    </header>
+
+    <main id="content" class="main-content" role="main">
+      <h1 id="high-fidelity-uav-simulation-tool-for-the-support-of-sora-process-based-validation-of-operational-flight-volume-and-ground-risk-buffer">High-Fidelity UAV Simulation Tool for the Support of SORA Process Based Validation of Operational Flight Volume and Ground Risk Buffer</h1>
+
+<p>The growth of unmanned aerial vehicle (UAV) applications is driving the development of ever-evolving drone regulations that provide higher safety standards for the industry, but also increase the hurdles for drone operators and pilots to obtain their flight permits where they are required. These hurdles are mainly financial due to the extensive approval process (SORA process) of operator procedures including all the required documentation. The aim of the Master’s thesis was to test a new way to reduce the financial hurdle for new flight permits by testing certain procedures in simulation and avoiding costly tabletop or on-site testing.</p>
+
+<p><img src="./../../pictures/mt_janik_vollenweider_simulator.png" alt="Branching" />
+<em>Figure: The round control station of the simulation on the left and the rendering of the flight mission on right. The mission could be steered either through the ground control station or an offboard control script in Python. The latter was the choice for the majority of the master thesis.</em></p>
+
+<p>In collaboration with <a href="https://incluas.ch/de/enhomedehome-deutsch/">incluas GmbH</a>, a company specialising in SORA approvals for drone applications, a simulation approach was developed to validate some of their procedures, including the size of flight corridors and safety zones. The applicability of such UAV simulations has been successfully demonstrated for various applications in industry and academia, but has not yet been used to support SORA approvals. Therefore, the chosen high-fidelity UAV simulator focused on a modular architecture and open-source software components to allow the necessary adaptations for the goal of the underlying thesis. A variety of different components such as Gazebo, PX4, Unreal Engine and AirSim were used in an integrated manner to answer the research questions. Derived from them, different experiments were used to validate the size of the ground risk buffer and the contingency volume for the intended use case in Biel at the <a href="https://www.sipbb.ch/">SIPBB</a>.</p>
+
+<p><img src="./../../pictures/mt_janik_vollenweider_results.png" alt="Branching" />
+<em>Figure: The results show the validation of the size of the ground risk buffer at different wind speeds and directions. The left graph shows the crash site after successful application of the emergency procedure (rotor shutdown) and the right graph shows the loss of altitude in relation to the horizontal distance during the procedure.</em></p>
+
+<p>The simulation was verified with real test flights to ensure reliable results from the UAV simulation model adapted to reproduce the performance characteristics of the DJI M300 RTK. Further analysis and interpretation of the results allowed recommendations to be made to the team at incluas for various adjustments to the operating parameters. Finally, improvements for further research were identified mainly in the area of user-friendliness of the simulation tool, support for different UAV models and the inclusion of an improved terrain model.</p>
+
+<p><a href="/">Back</a></p>
+
+
+      <footer class="site-footer">
+        <p>
+          <a href="/"Home</a>
+          <a> | </a>
+          <a href="/pages/news.html">News</a>
+          <a> | </a>
+          <a href="/pages/research.html">Research</a>
+          <a> | </a>
+          <a href="/pages/publications.html">Publications</a>
+          <a> | </a>
+          <a href="/pages/collaborations.html">Collaborations</a>
+          <a> | </a>
+          <a href="/pages/team.html">Team</a>
+        </p> 
+        <p style="color:white;">ONLY_HERE_AS_SPACER</p>
+        
+        <span class="site-footer-credits">This page was generated by <a href="https://pages.github.com">GitHub Pages</a>.</span>
+      </footer>
+    </main>
+  </body>
+</html>

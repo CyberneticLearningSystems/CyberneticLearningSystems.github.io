@@ -32,4 +32,4 @@ would be exploited
 This project is based on a digital twin initially developed by two Master's students in the first and second half of 2020, since then continued by our research group 
 with direct funding from Swiss Post.
 
-[Back](https://cyberneticlearningsystems.github.io/pages/research.html)
+[Back]({{ site.baseurl }}{% link index.md %})

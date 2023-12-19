@@ -24,7 +24,7 @@ and needs to cope with a large increase in capacity. This significant increase i
 investment in new rolling stock. One solution to assess the impact of different capacity increases is to simulate the railway infrastructure. SBB's research group has 
 developed a high-performance simulator that simulates both the dynamics of train traffic and the railway infrastructure.
 
-![Abbildung: Flatland Environment](https://cyberneticlearningsystems.github.io/pictures/flatland-env.gif)
+![Abbildung: Flatland Environment](../../pictures/flatland-env.gif)
 _Figure: Visualization of the Flatland simulation environment_
 
 ## What's next?
@@ -42,6 +42,6 @@ community. For more visit the website of the [Flatland Association](https://www.
 <br>
 
 
-[Back](https://cyberneticlearningsystems.github.io/pages/news.html)
+[Back]({{ site.baseurl }}{% link index.md %})
 
 <br>
