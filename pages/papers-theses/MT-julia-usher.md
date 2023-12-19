@@ -32,4 +32,4 @@ While the agent initially struggled to schedule larger and more complex problems
 development put it on a trajectory of improvement and a detailed analysis of the learning curves and model parameters 
 shed light on areas requiring further work and was able to provide learnings for continued development. 
 
-[Back](https://intelligentsystemsgroup.github.io/pages/research.html)
+[Back](https://cyberneticlearningsystems.github.io/pages/research.html)

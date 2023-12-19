@@ -67,7 +67,7 @@ The research group has supervised the following theses in the corresponding fiel
                 <td>Fall 2022</td>
                 <td>MSc</td>
                 <td>MT</td>
-                <td>A Novel Framework for Complex<br>Dynamic Job-Shop Scheduling (DJSP)<br>using Reinforcement Learning</td>
+                <td><a href="./papers-theses/MT-julia-usher.html">A Novel Framework for Complex<br>Dynamic Job-Shop Scheduling (DJSP)<br>using Reinforcement Learning</a></td>
             </tr>
         </table>
         <br>

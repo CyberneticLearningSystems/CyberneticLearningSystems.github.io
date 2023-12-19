@@ -19,4 +19,4 @@ _Figure: The results show the validation of the size of the ground risk buffer a
 The simulation was verified with real test flights to ensure reliable results from the UAV simulation model adapted to reproduce the performance characteristics of the DJI M300 RTK. Further analysis and interpretation of the results allowed recommendations to be made to the team at incluas for various adjustments to the operating parameters. Finally, improvements for further research were identified mainly in the area of user-friendliness of the simulation tool, support for different UAV models and the inclusion of an improved terrain model. 
 
 
-[Back](https://intelligentsystemsgroup.github.io/pages/research.html)
+[Back](https://cyberneticlearningsystems.github.io/pages/research.html)
