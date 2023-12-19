@@ -1,123 +1,48 @@
 ---
 layout: default
+title: Intelligent Systems and AI in Operations
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
-[Link to another page](./another-page.html).
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-# Header 1
-
-This is a normal paragraph following a header. GitHub is a code hosting platform for version control and collaboration. It lets you and others work together on projects from anywhere.
-
-## Header 2
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
-### Header 3
-
-```js
-// Javascript code with syntax highlighting.
-var fun = function lang(l) {
-  dateformat.i18n = require('./lang/' + l)
-  return true;
-}
-```
-
-```ruby
-# Ruby code with syntax highlighting
-GitHubPages::Dependencies.gems.each do |gem, version|
-  s.add_dependency(gem, "= #{version}")
-end
-```
-
-#### Header 4
-
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-
-##### Header 5
-
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
-
-###### Header 6
-
-| head1        | head two          | three |
-|:-------------|:------------------|:------|
-| ok           | good swedish fish | nice  |
-| out of stock | good and plenty   | nice  |
-| ok           | good `oreos`      | hmm   |
-| ok           | good `zoute` drop | yumm  |
-
-### There's a horizontal rule below this.
-
-* * *
-
-### Here is an unordered list:
-
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
-
-### And an ordered list:
-
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
-
-### And a nested list:
-
-- level 1 item
-  - level 2 item
-  - level 2 item
-    - level 3 item
-    - level 3 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-  - level 2 item
-  - level 2 item
-- level 1 item
-
-### Small image
-
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
+# **Welcome to the world of AI and Intelligent Systems**
 
 
-### Definition lists can be used with HTML syntax.
+This is the personal blog of the research group [**Intelligent Systems and AI in Operations**](https://www.zhaw.ch/en/engineering/institute-zentren/idp/forschungsthemen/operation-in-aviation/), a part 
+of the [**Institute of Data Analysis and Process Design**](https://www.zhaw.
+ch/en/engineering/institutes-centres/idp/) at the [**Zurich University of Applied Sciences**](https://www.zhaw.ch/en/university/).
 
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
+> *Dear visitor,
+we are glade to introduce ourselves, our projects, interests and engagements to you. Our team is dedicated and 
+> motivated to drive innovation in aviation and related industries through the application of artificial intelligence 
+> and development of intelligent systems.* 
+> <br>
+> *Feel free to contact us any time*
 
-```
-Long, single-line code blocks should not wrap. They should horizontally scroll if they are too long. This line should be long enough to demonstrate this.
-```
+<br>
+Our team applies data-driven machine learning and artificial intelligence algorithms to operations research, 
+focusing on industry needs. While our projects are mainly centred around the aviation industry under the term "AI in Aviation", 
+our team has completed many successful projects with partners beyond aviation using a broad array of methods from 
+simple machine learning models to more advanced methods such as deep learning models for computer vision or GANs. 
+More recently, our group has been further expanding our list to include reinforcement learning, which is the 
+direction we are heading with our latest research projects (see [AI4REALNET](./pages/projects/ai4realnet.md) and 
+[brAIght](./pages/projects/braight.md)).
+<br>
+<br>
 
-```
-The final element.
-```
+![Branching](./pictures/home_bild.png)
+Picture: [David Augsburger](https://www.instagram.com/augsburgair/)
+<br>
+<br>
+
+Our fields of expertise range from classic statistical methods to stochastic and machine-based optimization (e.g. Evolutionary Multi-Objective Optimization), 
+macro- and micro-economic analyses and the modelling and simulation of processes on the ground and in the air. In addition to the development of conventional 
+simulation models in the field of discrete-event and agent-based simulation, we also conduct research on new methods 
+in machine learning and artificial intelligence (GANs, Deep Reinforcement Learning with Human Feedback, etc.). We apply these methods to complex 
+operational problems inside and outside the aviation industry. 
+
+Our main tasks include the simulation of processes such as passenger flow dynamics or baggage fow, capacity analyses and management, delay propagation, 
+revenue management, hub and spoke load balancing and network analyses. The methods and solutions developed provide a basis for decision-making on complex 
+problems as part of operation management for partners within the aviation industry and their stakeholders.
+
+
+
+
