@@ -54,7 +54,7 @@ them at speeds of up to 120 km/h within half a metre of the ground... a lot of c
 
 
 ### Oliver Carmignani - Research Assistant
-<img src="./../pictures/oliver_bw.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/oliver_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
 <!--The code below is only used as spacer-->
 <html>
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
