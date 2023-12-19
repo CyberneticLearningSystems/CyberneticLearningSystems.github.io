@@ -35,7 +35,7 @@ be spotted on her skis (or next to them).
 [LinkedIn](https://www.linkedin.com/in/juliausher/).
 <br>
 
-### Janik Vollenweider - Researcher
+### Janik Vollenweider - Senior Researcher
 
 <img src="./../pictures/janik_bw.jpg" align="left" height="150" style="margin-right: 20px">
 

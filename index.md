@@ -1,14 +1,13 @@
 ---
 layout: default
-title: Intelligent Systems and AI in Operations
+title: Cybernetic Learning Systems
 ---
 
 # **Welcome to the world of AI and Intelligent Systems**
 
 
-This is the personal blog of the research group [**Intelligent Systems and AI in Operations**](https://www.zhaw.ch/en/engineering/institute-zentren/idp/forschungsthemen/operation-in-aviation/), a part 
-of the [**Institute of Data Analysis and Process Design**](https://www.zhaw.
-ch/en/engineering/institutes-centres/idp/) at the [**Zurich University of Applied Sciences**](https://www.zhaw.ch/en/university/).
+This is the personal blog of the research group [**Cybernetic Learning Systems**](https://www.zhaw.ch/en/engineering/institute-zentren/idp/forschungsthemen/operation-in-aviation/), a part 
+of the [**Center for Artifical Intelligence**](https://www.zhaw.ch/en/engineering/institutes-centres/cai/) at the [**Zurich University of Applied Sciences**](https://www.zhaw.ch/en/university/).
 
 > *Dear visitor,
 we are glade to introduce ourselves, our projects, interests and engagements to you. Our team is dedicated and 

@@ -2,8 +2,8 @@
 # This file contains configuration flags to customize your site
 #
 
-title: Intelligent Systems and Operations in Aviation
-description: Research Group at the ZHAW Institute of Data Analysis and Process Design, led by Dr. Manuel Renold
+title: Cybernetic Learning Systems 
+description: Research Group at the ZHAW Center for Artificial Intelligence, led by Dr. Manuel Renold
 show_downloads: true
 theme: jekyll-theme-cayman
 
@@ -22,7 +22,7 @@ footer-links:
   email:
   facebook:
   flickr:
-  github: IntelligentSystemsGroup
+  github: CyberneticLearningSystems
   instagram:
   linkedin: 
   pinterest:

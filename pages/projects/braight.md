@@ -24,4 +24,4 @@ fostering trust and an environment of mutual learning between AI agents and huma
 ## Acknowledgement
 This project is funded by Innosuisse. The project is ongoing and with a start in October 2023
 
-[Back](https://intelligentsystemsgroup.github.io/pages/research.html)
+[Back](https://cyberneticlearningsystems.github.io/pages/research.html)

@@ -27,6 +27,6 @@ For the interested reader:
 <br>
 
 
-[Back](https://intelligentsystemsgroup.github.io/pages/news.html)
+[Back](https://cyberneticlearningsystems.github.io/pages/news.html)
 
 <br>
