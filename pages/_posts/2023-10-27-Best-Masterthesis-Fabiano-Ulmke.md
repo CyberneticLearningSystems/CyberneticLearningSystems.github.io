@@ -26,7 +26,7 @@ Looking ahead to his professional carrer, Fabiano Ulmke, currently employed by t
 
 On behalf of the entire research group, we would like to congratulate Fabiano on his outstanding Master's thesis. His dedication, hard work and remarkable contribution have truly impressed us. We are proud that Fabiano has chosen to work with our research group leader, Dr. Manuel Renold, during his Master's degree and Master's thesis. We wish Fabiano all the best in his future career and may he take the opportunity to bring his ideas and vision of a more sustainable aviation to the industry!
 
-![Abbildung: Fabiano Ulmke](../../pictures/fabiano_swiss_engineering.jpg)
+![Abbildung: Fabiano Ulmke]({{ site.baseurl }}{% link pictures/fabiano_swiss_engineering.jpg %})
 _Figure: Fabiano Ulmke being rewarded for his master thesis. Picture: Swiss Engineering_
 
 

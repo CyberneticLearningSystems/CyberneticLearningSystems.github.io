@@ -740,8 +740,8 @@ a:hover {
   color: #fff;
   text-align: center;
   background-color: #0064a6;
-  background-image: url("./../../pictures/banner6_extended2.png");
-  background-size: auto 170%;
+  background-image: url("./../../pictures/banner6_extended3.png");
+  background-size: auto 120%;
 }
 @media screen and (min-width: 64em) {
   .page-header {

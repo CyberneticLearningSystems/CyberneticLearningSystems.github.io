@@ -1,8 +1,11 @@
 ---
 layout: default
-title: AI4REALNET - AI for Real-world Network operation 
+title: AI4REALNET AI for REAL-world NETwork operation 
 description: Horizon Europe research project including 9 partner universities
 ---
+
+<img src='../../pictures/Ai4REALNET_Logo_Color.png' alt='Project Logo' width='500px' style='display: block; margin-left: auto; margin-right: auto;'>
+<br>
 
 The European research project AI4REALNET aims to develop AI-based solutions for real-world networks and critical systems  (i.e., electricity, railways and air traffic) 
 that are traditionally operated by humans. The solutions are intended to be ethical, explainable with a focus on complementing and extending human capabilities through 
@@ -24,10 +27,21 @@ of AI to improve mission-critical operations. AI4REALNET aims to redesign these 
 
 The team at the “Intelligent Systems and AI in Aviation” research group is heavily involved in the development of the project, is primarily concerned with 
 fully AI-based decision systems with a focus on the railway domain, and is strongly involved in research and development of co-learning with Deep RL (Deep 
-Reinforcement Learning), XAI (Explainable AI) and RL for large networks. The team also contributes to the improvement of the Flatland simulation environment.
+Reinforcement Learning), XAI (Explainable AI) and RL for large networks. The team also contributes to the improvement of the [Flatland]({{site.baseurl}}{% link pages/_posts/2023-07-25-SBB-and-ZHAW-collaborating-in-Flatland.md %}) simulation environment.
 
-### Acknowledgment
-This is a funded research project by the European Union and their research initiative Horizon Europe. The project is 
-ongoing with a start in September 2023. 
+<br>
+
+<table>
+  <tr>
+    <td>
+      <img src='../../pictures/EU.png' width='50px' alt='European Union Flag'>
+    </td>
+    <td style="font-size: 0.7em;">
+      AI4REALNET has received funding from the <a href="https://research-and-innovation.ec.europa.eu/funding/funding-opportunities/funding-programmes-and-open-calls/horizon-europe_en">European Union's Horizon Europe Research and Innovation programme</a> under the grant Agreement No. 101119527
+    </td>
+  </tr>
+</table>
+
+<br>
 
 [Back]({{ site.baseurl }}{% link index.md %})

@@ -5,13 +5,14 @@ post_title: What is Cybernetic Learning?
 layout: post
 date: 2023-10-27
 modified: 2023-10-27
-category: 
+category: AI
 comments: true
 ---
 
-**Cybernetics** is a field founded in 1948 by Norbert Wiener with the publishing of his book *Cybernetics: or Control and Communication in the Animal and the Machine*. Linking communication and control in such a way went on to influence many fields of engineering, with Cybernetics now defined by David A. Mindell as "the study of human/machine interaction", whereby he mentions the core idea that most any system can be analysed using the principles of feedback, communication and control. 
-
 Finding a new name for a research group which doesn't exist at every other Artificial Intelligence institute is difficult - impossible even. We knew our focus lies in the design of AI solutions for complex systems, particularly using Reinforcement Learning methods. We knew that we wanted to keep our options open, given the broad interests and skills within our team. We also knew we wanted to differentiate ourselves from the rest, so we got a bit creative. Eventually Manuel came up with the idea to use "Cybernetics". The rest of us were a bit puzzled at the idea, seeing as for our generation, the terminator was what we pictured under cybernetics. Little did we know that the word itself refers to a field of science which perfectly describes what we do! 
+<!-- more -->
+
+**Cybernetics** is a field founded in 1948 by Norbert Wiener with the publishing of his book *Cybernetics: or Control and Communication in the Animal and the Machine*. Linking communication and control in such a way went on to influence many fields of engineering, with Cybernetics now defined by David A. Mindell as "the study of human/machine interaction", whereby he mentions the core idea that most any system can be analysed using the principles of feedback, communication and control. 
 
 At the core of cybernetics is a human-machine analogy which bears a striking resemblance to modern-day reinforcement learning, which can be simply desribed as the attempt to artificially reproduce the natural human learning process. What is this, if not cybernetics? Mindell refers to cybernetics not as a methodology or discipline but rather as a mindset, a way of analysing and viewing technology. 
 
