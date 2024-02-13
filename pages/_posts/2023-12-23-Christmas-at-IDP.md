@@ -5,7 +5,7 @@ post_title: It's Beginning to Look a lot like Christmas...
 layout: post
 date: 2023-12-19
 modified: 2023-12-19
-category: Conferences, AI, RL
+category: news
 comments: true
 ---
 
