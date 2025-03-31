@@ -10,7 +10,7 @@ that require new approaches and live by the motto "If you can think it, you can 
 
 <br>
 
-### Dr. Manuel Renold - Team Lead
+### Prof. Dr. Manuel Renold - Team Lead
 <img src="./../pictures/manuel_bw2.png" align="left" height="150" style="margin-right: 20px">
 
 As a physicist, mathematician, computer scientist, former climatologist and simulation oceanographer, Manuel’s major interest are simulated worlds, hyper complex systems, and deep learning. His job today and his experience makes him an expert in data analysis, simulation technologies, aviation researcher, and an enthusiastic reinforcement machine learner. He thinks a healthy environment, smart transport systems and AI fits well together. 
