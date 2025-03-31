@@ -62,6 +62,9 @@ In 2021, Marius pursued a Master of Science in Business Engineering at ZHAW, wor
 
 Outside of work, he is passionate about endurance sports, including cycling, swimming, and running and in the winter, he enjoys Nordic skiing.
 
+[LinkedIn](https://www.linkedin.com/in/marius-huber1/)
+<br>
+
 
 ### Oliver Carmignani - Research Assistant
 <img src="./../pictures/oliver_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
