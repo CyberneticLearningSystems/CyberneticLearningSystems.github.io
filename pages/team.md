@@ -53,7 +53,7 @@ them at speeds of up to 120 km/h within half a metre of the ground... a lot of c
 [LinkedIn](https://www.linkedin.com/in/janik-vollenweider-1144bb1a2)
 <br>
 
-### Marius Huber - Researcher Associate
+### Marius Huber - Senior Researcher
 <img src="./../pictures/marius_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
 
 Marius began his academic journey with a Bachelor of Science in Aviation at ZHAW, followed by a trainee program at Swissport International AG, where he worked in projects and process engineering. He then transitioned to the role of Project Leader in Engineering at a plastics company, overseeing a variety of projects from customer offers to prototype development.
