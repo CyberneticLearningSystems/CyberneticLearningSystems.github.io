@@ -11,7 +11,7 @@ that require new approaches and live by the motto "If you can think it, you can 
 <br>
 
 ### Prof. Dr. Manuel Renold - Team Lead
-<img src="./../pictures/manuel_bw2.png" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/manuel_bw2.png" align="left" height="150" style="margin-right: 20px">
 
 As a physicist, mathematician, computer scientist, former climatologist and simulation oceanographer, Manuel’s major interest are simulated worlds, hyper complex systems, and deep learning. His job today and his experience makes him an expert in data analysis, simulation technologies, aviation researcher, and an enthusiastic reinforcement machine learner. He thinks a healthy environment, smart transport systems and AI fits well together. 
 
@@ -20,7 +20,7 @@ As a physicist, mathematician, computer scientist, former climatologist and simu
 
 
 ### Julia Usher - PhD Candidate
-<img src="./../pictures/julia_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/julia_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
 
 Julia began her academic career in 2017 with the beginning of her BSc. in Aviation at the Zurich Univeristy of Applied Sciences. It was after her Bachelor's that she began
 working as a research assistant in Manuel's team while completing her Master's in Engineering from 2020-2023, deepening her knowledge of statistical methods, optimisation
@@ -37,7 +37,7 @@ After a day's work, you're most likely to find Julia with a volleyball in hand o
 
 ### Janik Vollenweider - Senior Researcher
 
-<img src="./../pictures/janik_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/Vollenweider_Janik_480x300.jpg" align="left" height="150" style="margin-right: 20px">
 
 Janik completed his BSc. in Aviation in 2020 and continued his Master in Engineering with specialisation in Aviation from 2020 to 2023. He gained professional
 experience in the transport industry at SBB and during his bachelor's degree through an internship at Zimex Aviation followed by part-time employment. During his 
@@ -54,7 +54,7 @@ them at speeds of up to 120 km/h within half a metre of the ground... a lot of c
 <br>
 
 ### Marius Huber - Senior Researcher
-<img src="./../pictures/marius_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/marius_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
 
 Marius began his academic journey with a Bachelor of Science in Aviation at ZHAW, followed by a trainee program at Swissport International AG, where he worked in projects and process engineering. He then transitioned to the role of Project Leader in Engineering at a plastics company, overseeing a variety of projects from customer offers to prototype development.
 
@@ -67,7 +67,7 @@ Outside of work, he is passionate about endurance sports, including cycling, swi
 
 
 ### Oliver Carmignani - Research Assistant
-<img src="./../pictures/oliver_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/Carmignani_Oliver_300.jpg" align="left" height="150" style="margin-right: 20px">
 
 Oliver concluded his undergraduate studies at the School of Engineering in Switzerland in 2019, earning a Bachelor of Science in Industrial Engineering, with a major in Business Mathematics. His bachelor's thesis involved the development of a convolutional neural network designed for the analysis and identification of salient features within a time series dataset. These identified features, augmented by an array of predictive models, were subsequently utilised to construct a reinforcement learning model, which was engineered with the capability to autonomously formulate its own trading strategy.
 
@@ -77,6 +77,16 @@ Oliver likes to spend his free time in front of the computer programming, produc
 [LinkedIn](https://www.linkedin.com/in/oliver-carmignani/)
 <br>
 
+
+### Luca Lehnherr - Student Assistant
+<img src="./../pictures/team/luca_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+
+Luca began his academic journey in 2023 as part of the first cohort of the Bachelor’s program in Business Artificial Intelligence at the University of Applied Sciences in Olten. The program combines topics from AI, data science, and business, providing a strong foundation for applying intelligent systems in real-world contexts. To complement his studies with practical experience, he joined the team as a research assistant, where he contributes to ongoing reinforcement learning projects and supports the team in both research and implementation tasks.
+ 
+Alongside his academic work, Luca is currently co-founding a startup focused on AI applications, which he plans to develop further after his graduation in 2026. In his free time, Luca is always on the lookout for his next creative endeavor. Over the years, he has developed a strong interest in collecting, restoring, and preserving vintage artifacts – particularly from the Apollo spaceflight era – and has found a lasting passion in maintaining and driving his classic MG. To recharge and find balance, he turns to photography, playing the piano, or a quiet game of chess.
+
+[LinkedIn](https://www.linkedin.com/in/luca-lenherr-507644347/)
+<br>
 
 
 <!--The code below is only used as spacer-->
