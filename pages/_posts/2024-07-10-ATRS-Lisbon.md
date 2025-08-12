@@ -1,7 +1,7 @@
 ---
 title: News
 description: Our latest news and blog posts
-post_title: Cybernetic Learning Systems Move to FHNW!
+post_title: CLS at the ATRS in Lisbon
 layout: post
 date: 2025-01-01
 modified: 2025-01-01
