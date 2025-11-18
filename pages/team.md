@@ -83,6 +83,19 @@ Oliver likes to spend his free time in front of the computer programming, produc
 <br>
 
 
+### Julia Stadelmann - Research Assistant
+<img src="./../pictures/team/julia_stdm_bw_small.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
+Julia holds a Bachelor of Science in Information Science with majors in Information Engineering and Information Management. Since 2024, she has been pursuing her Master of Science in Applied Information and Data Science, where she developed a particular interest in artificial intelligence, healthcare-related data science, and data-driven systems.
+
+Her professional background as an Information Specialist includes positions at the Swiss National Library, the Swiss National Museum, and the Central Library of Zurich. In these roles, she specialized in data management, metadata curation, and quality assurance for digital collections. These experiences deepened her appreciation for structured information and further motivated her to work with complex data.
+
+In her free time, she enjoys swimming and attending cultural events. Julia loves baking, where she combines new ideas with traditional recipes. She is also actively involved in genealogy.
+
+[LinkedIn](https://www.linkedin.com/in/julia-stadelmann-69bb43134/)
+<br>
+
+
 ### Luca Lehnherr - Student Assistant
 <img src="./../pictures/team/luca_bw_small.jpg" align="left" height="250" style="margin-right: 20px">
 <!-- <br> -->
