@@ -8,6 +8,7 @@ description: Our trusted brainpower behind the computers!
 We are a small team consisting of five curious people interested in developing innovative solutions to problems in a diverse range of use-cases. We love to tackle big problems
 that require new approaches and live by the motto "If you can think it, you can achieve it". We'd love to take this opportunity to introduce ourselves:
 
+
 <br>
 
 ### Prof. Dr. Manuel Renold - Team Lead
@@ -17,6 +18,9 @@ that require new approaches and live by the motto "If you can think it, you can 
 As a physicist, mathematician, computer scientist, former climatologist and simulation oceanographer, Manuel’s major interest are simulated worlds, hyper complex systems, and deep learning. His job today and his experience makes him an expert in data analysis, simulation technologies, aviation researcher, and an enthusiastic reinforcement machine learner. He thinks a healthy environment, smart transport systems and AI fits well together. 
 
 [LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/)
+<br>
+<br>
+<br>
 <br>
 
 
@@ -42,16 +46,9 @@ After a day's work, you're most likely to find Julia with a volleyball in hand o
 <img src="./../pictures/team/Vollenweider_Janik_480x300.jpg" align="left" height="250" style="margin-right: 20px">
 <!-- <br> -->
 
-Janik completed his BSc. in Aviation in 2020 and continued his Master in Engineering with specialisation in Aviation from 2020 to 2023. He gained professional
-experience in the transport industry at SBB and during his bachelor's degree through an internship at Zimex Aviation followed by part-time employment. During his 
-master's degree, Janik started as a research assistant in Manuel's team. He mainly focused on the development of the Vertiport simulation in cooperation with Wisk and 
-Aurora Flight Sciences. Through his knowledge of agent-based simulation, acquired during his bachelor thesis, he also assisted in lectures on passenger flow simulations 
-at airports. He demonstrated his knowledge of airline profit in a project thesis during his master's degree and was involved in the underlying research within the group.
+Janik completed his BSc. in Aviation in 2020 and continued his Master in Engineering with specialisation in Aviation from 2020 to 2023. He gained professional experience in the transport industry at SBB and during his bachelor's degree through an internship at Zimex Aviation followed by part-time employment. During his master's degree, Janik started as a research assistant in Manuel's team. He mainly focused on the development of the Vertiport simulation in cooperation with Wisk and Aurora Flight Sciences. Through his knowledge of agent-based simulation, acquired during his bachelor thesis, he also assisted in lectures on passenger flow simulations at airports. He demonstrated his knowledge of airline profit in a project thesis during his master's degree and was involved in the underlying research within the group.
 
-As the drone nerd in the group, he focused his [master's thesis](./paper_theses/MT_janik_vollenweider.md) on developing a high-fidelity UAV simulation to validate operational flight procedures that require a 
-permit to fly. Together with the start-up [incluas](https://incluas.ch/), he explored new ways to reduce the costs of real-flight tests required for drone operations that require a 
-flight approval. When he's not sitting behind his desk, he's repairing and tuning his FPV drones or enjoying the freedom of pushing them through tiny gaps or flying 
-them at speeds of up to 120 km/h within half a metre of the ground... a lot of crashes included. True to the motto "Fail Fast, Fail Often!"
+As the drone nerd in the group, he focused his [master's thesis](./paper_theses/MT_janik_vollenweider.md) on developing a high-fidelity UAV simulation to validate operational flight procedures that require a permit to fly. Together with the start-up [incluas](https://incluas.ch/), he explored new ways to reduce the costs of real-flight tests required for drone operations that require a flight approval. When he's not sitting behind his desk, he's repairing and tuning his FPV drones or enjoying the freedom of pushing them through tiny gaps or flying them at speeds of up to 120 km/h within half a metre of the ground... a lot of crashes included. True to the motto "Fail Fast, Fail Often!"
 
 [LinkedIn](https://www.linkedin.com/in/janik-vollenweider-1144bb1a2)
 <br>
@@ -80,6 +77,20 @@ Currently, he holds the position of a Data Scientist, leveraging his 3 years of 
 Oliver likes to spend his free time in front of the computer programming, producing music or playing chess and other games. When he's not sitting at his computer, he likes to spend his time outdoors with his dog and is a passionate volleyball coach, getting his team fit for competitive season games.
 
 [LinkedIn](https://www.linkedin.com/in/oliver-carmignani/)
+<br>
+
+
+### Janick Marti - Research Assisstant
+<img src="./../pictures/team/Marti_Janick_300.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
+Janick began his career with an apprenticeship as a chemical laboratory technician, followed by a BSc in Medical Technology in 2016 at the FHNW in Muttenz. After spending two years working as a compliance engineer in the pharmaceutical industry, he decided to further deepen his expertise and completed an MSc in Medical Informatics, where he focused on data science and machine learning applications in healthcare.
+ 
+ 
+For his master’s thesis, Janick investigated chromatin conformation in the human genome and its interaction with UV-induced DNA damage, combining computational analysis with biological insight. Inspired by this work and his growing passion for research, he joined Manuel’s team as a research assistant in October 2025, where he aims to contribute to innovative data-driven approaches in biomedical science.
+ 
+In his spare time, Janick enjoys expressing his creative side through drawing and painting. He also values staying active and can often be found at the gym, on the tennis court, or bouldering.
+
+[LinkedIn](https://www.linkedin.com/in/janick-marti-9b30/)
 <br>
 
 
