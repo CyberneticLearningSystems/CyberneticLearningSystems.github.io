@@ -15,8 +15,6 @@ EPFL in Lausanne, which attracts (facts about AMLD)
 
 # CLS Github
 Our work is published on our [CLS Github](https://github.com/CyberneticLearningSystems) as well as the Github of our individual researchers - follow us to see what we're up to in both research and private projects!
-- [Julia](https://github.com/ozmanda)
-- [Janik](https://github.com/janik96v)
 - [Oliver](https://github.com/o2candoo)
 
 
