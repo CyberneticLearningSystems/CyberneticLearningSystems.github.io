@@ -15,7 +15,7 @@ high degree of human control while simultaneously improving system performance.
 <!-- more -->
 
 <div style="text-align:center;">
-    <img src="https://cyberneticlearningsystems.github.io/pictures/zhaw_swissport_project_blog.png" alt="Centered Image" style="max-width: 60%; height: auto;">
+    <img src="../../pictures/zhaw_swissport_project_blog.png" alt="Centered Image" style="max-width: 60%; height: auto;">
 </div>
 
 The innovation project will enable Swissport to further improve their operations and thereby solidify their position as a market-leading ground handling agent
@@ -29,6 +29,6 @@ aircraft ground handling.
 <br>
 
 
-[Back](https://cyberneticlearningsystems.github.io/pages/news.html)
+[Back]({{ site.baseurl }}{% link index.md %})
 
 <br>

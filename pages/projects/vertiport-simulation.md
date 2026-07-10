@@ -26,4 +26,4 @@ The study is a decisive contribution to the development of a valid and economica
 ### Acknowledgment
 This ongoing project started in 2019 and was funded in three phases by Aurora Flight Sciences and Wisk Aero.
 
-[Back](https://cyberneticlearningsystems.github.io/pages/research.html)
+[Back]({{ site.baseurl }}{% link index.md %})

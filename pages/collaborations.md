@@ -4,6 +4,7 @@ title: Collaborations and Trusted Partners
 description: We are proud to list all our trusted partners and collaborators.
 ---
 
+We have a long history of collaboration with partners from both industry and academia, exhibited by the list below. We believe that together we can and will achieve more, so don't hesitate to reach out to us at cls.cai@zhaw.ch with your ideas!
 
 # Partners from Industry
 

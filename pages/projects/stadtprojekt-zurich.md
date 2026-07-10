@@ -21,4 +21,4 @@ reducing traffic congestion, lowering noise emissions, and promoting green mobil
 ### Acknowledgment
 This project was funded by the Department of Environment and Health Protection (UZG) of the Canton of Zurich. The project finished in January 2020.
 
-[Back](https://cyberneticlearningsystems.github.io/pages/research.html)
+[Back]({{ site.baseurl }}{% link index.md %})

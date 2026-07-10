@@ -5,21 +5,28 @@ description: Our trusted brainpower behind the computers!
 ---
 
 # **Who are we?**
-We are a small team consisting of three curious people interested in developing innovative solutions to problems in a diverse range of use-cases. We love to tackle big problems
+We are a small team consisting of five curious people interested in developing innovative solutions to problems in a diverse range of use-cases. We love to tackle big problems
 that require new approaches and live by the motto "If you can think it, you can achieve it". We'd love to take this opportunity to introduce ourselves:
 
+
 <br>
 
-### Dr. Manuel Renold - Team Lead
-<img src="./../pictures/manuel_bw2.png" align="left" height="150" style="margin-right: 20px">
+### Prof. Dr. Manuel Renold - Team Lead
+<img src="./../pictures/team/manuel.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
 
-As a physicist, mathematician, computer scientist , former climatologist and simulation oceanographer, Manuel’s major interest are simulated worlds, hyper complex systems, and deep learning. His today’s job makes him an expert in data analysis, simulation technologies, aviation researcher, and an enthusiastic reinforcement machine learner. He thinks a healthy environment, smart transport systems and AI fits well together. 
+As a physicist, mathematician, computer scientist, former climatologist and simulation oceanographer, Manuel’s major interest are simulated worlds, hyper complex systems, and deep learning. His job today and his experience makes him an expert in data analysis, simulation technologies, aviation researcher, and an enthusiastic reinforcement machine learner. He thinks a healthy environment, smart transport systems and AI fits well together. 
 
-[LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/).
+[LinkedIn](https://www.linkedin.com/in/manuel-renold-46b07287/)
 <br>
+<br>
+<br>
+<br>
+
 
 ### Julia Usher - PhD Candidate
-<img src="./../pictures/julia_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/Usher_Julia_300.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
 
 Julia began her academic career in 2017 with the beginning of her BSc. in Aviation at the Zurich Univeristy of Applied Sciences. It was after her Bachelor's that she began
 working as a research assistant in Manuel's team while completing her Master's in Engineering from 2020-2023, deepening her knowledge of statistical methods, optimisation
@@ -28,33 +35,90 @@ reinforcement learning agent for the scheduling of ground handling equipment, pr
 is now underway - she will stay on in Manuel's team as a PhD Candidate, working primarily for the [AI4REALNET](./projects/ai4realnet.md)
 project in the field of human-machine co-learning and the continuation of her Master's Thesis in the [brAIght](./projects/braight.md) project.
 
-After a day's work, you're most likely to find Julia with a volleyball in hand or - as the green thumb of the group - taking care of her urban jungle at home. The weekends  
-of the warmer months are mostly spent outside on "relaxing" alpine hikes and nights sleeping outside under the stars. While still hiking in winter, she's more likely to
-be spotted on her skis (or next to them).
+After a day's work, you're most likely to find Julia with a volleyball in hand or - as the green thumb of the group - taking care of her urban jungle at home. The weekends of the warmer months are mostly spent outside on "relaxing" alpine hikes and nights sleeping outside under the stars. While still hiking in winter, she's more likely to be spotted on her skis (or next to them).
 
-[LinkedIn](https://www.linkedin.com/in/juliausher/).
+[LinkedIn](https://www.linkedin.com/in/juliausher/)
 <br>
+
 
 ### Janik Vollenweider - Senior Researcher
 
-<img src="./../pictures/janik_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/Vollenweider_Janik_480x300.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
 
-Janik completed his BSc. in Aviation in 2020 and continued his Master in Engineering with specialisation in Aviation from 2020 to 2023. He gained professional
-experience in the transport industry at SBB and during his bachelor's degree through an internship at Zimex Aviation followed by part-time employment. During his 
-master's degree, Janik started as a research assistant in Manuel's team. He mainly focused on the development of the Vertiport simulation in cooperation with Wisk and 
-Aurora Flight Sciences. Through his knowledge of agent-based simulation, acquired during his bachelor thesis, he also assisted in lectures on passenger flow simulations 
-at airports. He demonstrated his knowledge of airline profit in a project thesis during his master's degree and was involved in the underlying research within the group.
+Janik completed his BSc. in Aviation in 2020 and continued his Master in Engineering with specialisation in Aviation from 2020 to 2023. He gained professional experience in the transport industry at SBB and during his bachelor's degree through an internship at Zimex Aviation followed by part-time employment. During his master's degree, Janik started as a research assistant in Manuel's team. He mainly focused on the development of the Vertiport simulation in cooperation with Wisk and Aurora Flight Sciences. Through his knowledge of agent-based simulation, acquired during his bachelor thesis, he also assisted in lectures on passenger flow simulations at airports. He demonstrated his knowledge of airline profit in a project thesis during his master's degree and was involved in the underlying research within the group.
 
-As the drone nerd in the group, he focused his [master's thesis](./paper_theses/MT_janik_vollenweider.md) on developing a high-fidelity UAV simulation to validate operational flight procedures that require a 
-permit to fly. Together with the start-up [incluas](https://incluas.ch/), he explored new ways to reduce the costs of real-flight tests required for drone operations that require a 
-flight approval. When he's not sitting behind his desk, he's repairing and tuning his FPV drones or enjoying the freedom of pushing them through tiny gaps or flying 
-them at speeds of up to 120 km/h within half a metre of the ground... a lot of crashes included. True to the motto "Fail Fast, Fail Often!"
+As the drone nerd in the group, he focused his [master's thesis](./paper_theses/MT_janik_vollenweider.md) on developing a high-fidelity UAV simulation to validate operational flight procedures that require a permit to fly. Together with the start-up [incluas](https://incluas.ch/), he explored new ways to reduce the costs of real-flight tests required for drone operations that require a flight approval. When he's not sitting behind his desk, he's repairing and tuning his FPV drones or enjoying the freedom of pushing them through tiny gaps or flying them at speeds of up to 120 km/h within half a metre of the ground... a lot of crashes included. True to the motto "Fail Fast, Fail Often!"
 
 [LinkedIn](https://www.linkedin.com/in/janik-vollenweider-1144bb1a2)
+<br>
+
+### Marius Huber - Senior Researcher
+<img src="./../pictures/team/HURR_81485.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
+
+Marius began his academic journey with a Bachelor of Science in Aviation at ZHAW, followed by a trainee program at Swissport International AG, where he worked in projects and process engineering. He then transitioned to the role of Project Leader in Engineering at a plastics company, overseeing a variety of projects from customer offers to prototype development.
+
+In 2021, Marius pursued a Master of Science in Business Engineering at ZHAW, working part-time at the Institute of Data Analysis and Process Design. His focus was on operations research, with a particular interest in combinatorial optimization and vehicle routing problems. For his Master’s thesis, he developed a new mathematical model for a Complex Location Routing Problem, addressing real-world challenges. He is now a research associate in our group, contributing to various projects within the team.
+
+Outside of work, he is passionate about endurance sports, including cycling, swimming, and running and in the winter, he enjoys Nordic skiing.
+
+[LinkedIn](https://www.linkedin.com/in/marius-huber1/)
+<br>
 
 
 ### Oliver Carmignani - Research Assistant
-<img src="./../pictures/oliver_bw_small.jpg" align="left" height="150" style="margin-right: 20px">
+<img src="./../pictures/team/Carmignani_Oliver_300.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
+
+Oliver concluded his undergraduate studies at the School of Engineering in Switzerland in 2019, earning a Bachelor of Science in Industrial Engineering, with a major in Business Mathematics. His bachelor's thesis involved the development of a convolutional neural network designed for the analysis and identification of salient features within a time series dataset. These identified features, augmented by an array of predictive models, were subsequently utilised to construct a reinforcement learning model, which was engineered with the capability to autonomously formulate its own trading strategy.
+
+Currently, he holds the position of a Data Scientist, leveraging his 3 years of global experience in renewable energy, specifically in hydrology and solar power. Last year, he dedicated 6 months to living and working in Kenya, collaborating with local organizations to advance hydropower initiatives. He plans to expand and pursue these projects in the future.
+Oliver likes to spend his free time in front of the computer programming, producing music or playing chess and other games. When he's not sitting at his computer, he likes to spend his time outdoors with his dog and is a passionate volleyball coach, getting his team fit for competitive season games.
+
+[LinkedIn](https://www.linkedin.com/in/oliver-carmignani/)
+<br>
+
+
+### Janick Marti - Research Assisstant
+<img src="./../pictures/team/Marti_Janick_300.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
+Janick began his career with an apprenticeship as a chemical laboratory technician, followed by a BSc in Medical Technology in 2016 at the FHNW in Muttenz. After spending two years working as a compliance engineer in the pharmaceutical industry, he decided to further deepen his expertise and completed an MSc in Medical Informatics, where he focused on data science and machine learning applications in healthcare.
+ 
+ 
+For his master’s thesis, Janick investigated chromatin conformation in the human genome and its interaction with UV-induced DNA damage, combining computational analysis with biological insight. Inspired by this work and his growing passion for research, he joined Manuel’s team as a research assistant in October 2025, where he aims to contribute to innovative data-driven approaches in biomedical science.
+ 
+In his spare time, Janick enjoys expressing his creative side through drawing and painting. He also values staying active and can often be found at the gym, on the tennis court, or bouldering.
+
+[LinkedIn](https://www.linkedin.com/in/janick-marti-9b30/)
+<br>
+
+
+### Julia Stadelmann - Research Assistant
+<img src="./../pictures/team/julia_stdm_bw_small.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
+Julia holds a Bachelor of Science in Information Science with majors in Information Engineering and Information Management. Since 2024, she has been pursuing her Master of Science in Applied Information and Data Science, where she developed a particular interest in artificial intelligence, healthcare-related data science, and data-driven systems.
+
+Her professional background as an Information Specialist includes positions at the Swiss National Library, the Swiss National Museum, and the Central Library of Zurich. In these roles, she specialized in data management, metadata curation, and quality assurance for digital collections. These experiences deepened her appreciation for structured information and further motivated her to work with complex data.
+
+In her free time, she enjoys swimming and attending cultural events. Julia loves baking, where she combines new ideas with traditional recipes. She is also actively involved in genealogy.
+
+[LinkedIn](https://www.linkedin.com/in/julia-stadelmann-69bb43134/)
+<br>
+
+
+### Luca Lehnherr - Student Assistant
+<img src="./../pictures/team/luca_bw_small.jpg" align="left" height="250" style="margin-right: 20px">
+<!-- <br> -->
+
+Luca began his academic journey in 2023 as part of the first cohort of the Bachelor’s program in Business Artificial Intelligence at the University of Applied Sciences in Olten. The program combines topics from AI, data science, and business, providing a strong foundation for applying intelligent systems in real-world contexts. To complement his studies with practical experience, he joined the team as a research assistant, where he contributes to ongoing reinforcement learning projects and supports the team in both research and implementation tasks.
+ 
+Alongside his academic work, Luca is currently co-founding a startup focused on AI applications, which he plans to develop further after his graduation in 2026. In his free time, Luca is always on the lookout for his next creative endeavor. Over the years, he has developed a strong interest in collecting, restoring, and preserving vintage artifacts – particularly from the Apollo spaceflight era – and has found a lasting passion in maintaining and driving his classic MG. To recharge and find balance, he turns to photography, playing the piano, or a quiet game of chess.
+
+[LinkedIn](https://www.linkedin.com/in/luca-lenherr-507644347/)
+<br>
+
+
 <!--The code below is only used as spacer-->
 <html>
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
@@ -72,5 +136,5 @@ them at speeds of up to 120 km/h within half a metre of the ground... a lot of c
   <p style="color:white;">ONLY_HERE_AS_SPACER</p>
 </html>
 
-Feel free to visit Oliver on [LinkedIn](https://www.linkedin.com/in/oliver-carmignani/).
+
 <br>

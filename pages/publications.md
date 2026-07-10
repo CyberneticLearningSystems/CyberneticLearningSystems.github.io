@@ -13,6 +13,13 @@ also actively involved in the organisation of the [Applied Machine Learning Days
 EPFL in Lausanne, which attracts (facts about AMLD)
 <br>
 
+# CLS Github
+Our work is published on our [CLS Github](https://github.com/CyberneticLearningSystems) as well as the Github of our individual researchers - follow us to see what we're up to in both research and private projects!
+- [Julia](https://github.com/ozmanda)
+- [Janik](https://github.com/janik96v)
+- [Oliver](https://github.com/o2candoo)
+
+
 # Selected Peer-reviewed Publications
 
 - Babic, D., Renold, M., 2023, 25th Euro Working Group on Transportation Meeting (EWGT 2023), Prediction of All-causes of Airline Delays at Zurich Airport Based on Decision Tree, Spain, Transportation Research Procedia 00 (2023) 000–000.
