@@ -21,19 +21,6 @@ As a physicist, mathematician, computer scientist, former climatologist and simu
 <br>
 
 
-### Oliver Carmignani - Research Assistant
-<img src="./../pictures/team/Carmignani_Oliver_300.jpg" align="left" height="250" style="margin-right: 20px">
-<!-- <br> -->
-
-Oliver concluded his undergraduate studies at the School of Engineering in Switzerland in 2019, earning a Bachelor of Science in Industrial Engineering, with a major in Business Mathematics. His bachelor's thesis involved the development of a convolutional neural network designed for the analysis and identification of salient features within a time series dataset. These identified features, augmented by an array of predictive models, were subsequently utilised to construct a reinforcement learning model, which was engineered with the capability to autonomously formulate its own trading strategy.
-
-Currently, he holds the position of a Data Scientist, leveraging his 3 years of global experience in renewable energy, specifically in hydrology and solar power. Last year, he dedicated 6 months to living and working in Kenya, collaborating with local organizations to advance hydropower initiatives. He plans to expand and pursue these projects in the future.
-Oliver likes to spend his free time in front of the computer programming, producing music or playing chess and other games. When he's not sitting at his computer, he likes to spend his time outdoors with his dog and is a passionate volleyball coach, getting his team fit for competitive season games.
-
-[LinkedIn](https://www.linkedin.com/in/oliver-carmignani/)
-<br>
-
-
 ### Janick Marti - Research Assisstant
 <img src="./../pictures/team/Marti_Janick_300.jpg" align="left" height="250" style="margin-right: 20px">
 <!-- <br> -->
