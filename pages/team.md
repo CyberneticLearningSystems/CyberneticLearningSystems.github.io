@@ -47,7 +47,7 @@ In her free time, she enjoys swimming, attending cultural events, and geocaching
 <br>
 
 
-### Luca Lehnherr - Student Assistant
+### Luca Lenherr - Research Assistant
 <img src="./../pictures/team/luca_bw_small.jpg" align="left" height="250" style="margin-right: 20px">
 <!-- <br> -->
 
