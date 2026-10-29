@@ -4,26 +4,26 @@ title: Collaborations and Trusted Partners
 description: We are proud to list all our trusted partners and collaborators.
 ---
 
-We have a long history of collaboration with partners from both industry and academia, exhibited by the list below. We believe that together we can and will achieve more, so don't hesitate to reach out to us at cls.cai@zhaw.ch with your ideas!
+We have a long history of collaboration with partners from both industry and academia, as reflected in the list below. We believe that together we can and will achieve more, so don't hesitate to reach out to us at manuel.renold@fhnw.ch with your ideas!
 
 # Partners from Industry
 
 - [Zurich Airport](https://www.flughafen-zuerich.ch/de/unternehmen)
-- [Geneva Airport](https://www.gva.ch/fr/Site/Geneve-Aeroport/Accueil-Corporate) 
+- [Geneva Airport](https://www.gva.ch/en/professionals) 
 - [Altenrhein Airport](https://www.peoples.ch/flughafen-altenrhein) 
-- [Bern Airport: https](//www.bernairport.ch/de/)
+- [Bern Airport](https://www.bernairport.ch/de/)
 - [Curacao Airport](https://www.curacao-airport.com/)
 - [Swiss International Air Lines Ltd](https://www.swiss.com/corporate/de/company) 
 - [Lufthansa (Deutsche Lufthansa AG)](https://www.lufthansa.com/ch/de/homepage) 
 - [Edelweiss Air AG](https://www.flyedelweiss.com/ch/de/about-edelweiss.html)
 - [Helvetic Airways](https://www.helvetic.com/de/helvetic;jsessionid=gFHhbOcQBYaoH4Q8VBQDB20qLfSq-dLBm83-75Wo.myhdc)
 - [Swissport](https://www.swissport.com/en)
-- [dnata Switzerland AG](https://www.dnata.ch/web/index.php?id=67) 
+- [dnata Switzerland AG](https://dnata.ch/de/) 
 - [Airline Assistance Switzerland (AAS)](https://www.aas.aero/) 
 - [SRTechnics Switzerland Ltd](https://www.srtechnics.com/)
-- [Bundesamt für Zivilluftfahrt (BAZL)](https://www.bazl.admin.ch/bazl/de/home.html) 
+- [Bundesamt für Zivilluftfahrt (BAZL)](https://www.bazl.admin.ch/de) 
 - [Skyguide](https://www.skyguide.ch/de/)
-- [Meteoblue](https//content.meteoblue.com/de/ueber-uns)
+- [Meteoblue](https://content.meteoblue.com/de)
 - [Bauhaus Luftfahrt](https://www.bauhaus-luftfahrt.net/de/)
 - [Airbus S.A.S](https://www.airbus.com/en)
 - [Boeing](https://www.boeing.com/company/)
@@ -31,7 +31,7 @@ We have a long history of collaboration with partners from both industry and aca
 - [Wisk Aero LLC](https://wisk.aero/) 
 - [NASA](https://www.nasa.gov/)
 - [ASE AG](https://www.ase.ch/de/)
-- [SBB: https](https://company.sbb.ch/de/home.html) 
+- [SBB](https://company.sbb.ch/de/home.html) 
 - [Deutsche Bahn](https://www.bahn.de/service/ueber-uns) 
 - [SNCF (Französische Bahn)](https://www.sncf.com/en/group/profile-and-key-figures/about-us/who-we-are) 
 - [Die Schweizerische Post AG](https://www.post.ch/de)
@@ -45,7 +45,7 @@ We have a long history of collaboration with partners from both industry and aca
 - [University of Applied Sciences and Arts Northwestern Switzerland](https://www.fhnw.ch/de/) 
 - [EMPA Swiss Federal Laboratories of Material Science](https://www.empa.ch/)
 - [Switzerland Innovation Park Biel/Bienne](https://www.sipbb.ch/)
-- [Brainability Ltd: https](https://brainability.ch/)
+- [Brainability Ltd](https://brainability.ch/)
 - [Cranfield University](https://www.cranfield.ac.uk/) 
 - [Delft University of Technology](https://www.tudelft.nl/)
 - [University of Amsterdam](https://www.uva.nl/en?cb)
@@ -55,7 +55,7 @@ We have a long history of collaboration with partners from both industry and aca
 - [Polytechnic University of Milan](https://www.polimi.it/en)
 - [Institute for Systems and Computer Engineering, Technology and Science](https://www.inesctec.pt/en)
 - [Polytechnic University of Catalonia](https://www.upc.edu/en) 
-- [Belgrade University](https://bg.ac.rs/en/members/faculties/TTE.php)
+- [Belgrade University](https://www.sf.bg.ac.rs/index.php/en/)
 
 <!--The code below is only used as spacer-->
 <html>
