@@ -4,13 +4,7 @@ title: Publications and Conferences
 description: Our publications in scientific journals and presentations and at conferences
 ---
 
-We are proud to be regularly publishing in scientific journals and holding speeches at conferences around the world. 
-Our research activities lead us to actively participate in hosting, co-hosting or chairing well-known conferences. 
-For example, Manuel Renold recently chaired at the [International conference for Research in Air Transportation 
-(ICRAT)](https://www.icrat.org/ ) and at the [Air Transport Research Society World Conference (ATRS)](https://www.atrsworld.org/). He is 
-also editor of thejournal [AI in Aviation](https://www.frontiersin.org/research-topics/19880/ai-in-aviation), which is part of the well-known journal Fontiers. Our team are
-also actively involved in the organisation of the [Applied Machine Learning Days](https://appliedmldays.org/) at the 
-EPFL in Lausanne, which attracts (facts about AMLD)
+Our research activities extend beyond our projects through contributions to scientific publications, conferences, and academic events. We value the exchange of knowledge and ideas within the international research community and have contributed to the organisation and scientific programmes of various conferences. For example, Manuel Renold has chaired sessions at the [International Conference for Research in Air Transportation (ICRAT)](https://www.icrat.org/) and the [Air Transport Research Society World Conference (ATRS)](https://www.atrsworld.org/). He has also served as an editor for [AI in Aviation](https://www.frontiersin.org/research-topics/19880/ai-in-aviation), a research topic published in *Frontiers*. Our team has also been actively involved in the organisation of the [Applied Machine Learning Days (AMLD)](https://appliedmldays.org/) at EPFL in Lausanne.
 <br>
 
 # CLS Github

@@ -6,7 +6,7 @@ description: Our current and past research projects as well as some selected sup
 
 # Research Projects
 
-The research group was or is involved in the following past and ongoing projects:
+Below are some of the past and ongoing research projects our group has been involved in:
 
 - [Heim - Reinforcement Learning Control Systems for Heat Pumps](./projects/heim.md)
 - [Meta-Router - Multimodal and Barrier-Free Routing Solutions](./projects/metarouter.md)
@@ -23,7 +23,7 @@ The research group was or is involved in the following past and ongoing projects
 
 # Supervised Theses
 
-The research group has supervised the following theses in the corresponding fields (click to expand):
+The research group has supervised various theses in different research fields. Some examples are listed below (click to expand):
 
 <!--Table for all theses focusing on simulations -->
 <details>
